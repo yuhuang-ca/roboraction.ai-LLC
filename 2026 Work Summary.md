@@ -6,9 +6,9 @@ Milestone 2
 2.1) Beijing 开放原子生态大会 M-robots OS Workshop PPT “基于M-Robots 的世界模型智能体Harness 框架”： <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/2026%E5%BC%80%E6%94%BE%E5%8E%9F%E5%AD%90%E7%94%9F%E6%80%81%E5%A4%A7%E4%BC%9A%20M-robots%20OS%20Workshop%20HY.pptx> 
 2.2) Shanghai WAIC'26 workshop PPT “世界动作模型具身智体驾驭EAH-WAM”： <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%B8%96%E7%95%8C%E5%8A%A8%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%85%B7%E8%BA%AB%E6%99%BA%E4%BD%93%E9%A9%BE%E9%A9%ADEAH-WAM.pptx>
 Appendix：three Harness posters：1）智能体Harness和具身机器人的碰撞； 2）将具身机器人扎根于LLM 智能体驾驭框架; 3）扩展到具身机器人的智体驾驭平台。
-<https://mp.weixin.qq.com/s/06j2SyTP8CPTYzJXPYethw> 
-<https://mp.weixin.qq.com/s/kES9v_7scwy4-PUwJCfkXg> 
-<https://mp.weixin.qq.com/s/3E_fGOg9glqdUA_ToOWZ5w> 
+<https://mp.weixin.qq.com/s/06j2SyTP8CPTYzJXPYethw> — [PDF 备份：智能体Harness和具身机器人的碰撞](%E6%99%BA%E8%83%BD%E4%BD%93Harness%E5%92%8C%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E7%A2%B0%E6%92%9E.pdf) 
+<https://mp.weixin.qq.com/s/kES9v_7scwy4-PUwJCfkXg> — [PDF 备份：将具身机器人扎根于LLM 智能体驾驭框架](%E5%B0%86%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8E%E6%A0%B9%E4%BA%8ELLM%20%E6%99%BA%E8%83%BD%E4%BD%93%E9%A9%BE%E9%A9%AD%E6%A1%86%E6%9E%B6.pdf) 
+<https://mp.weixin.qq.com/s/3E_fGOg9glqdUA_ToOWZ5w> — [PDF 备份：扩展到具身机器人的智体驾驭平台](%E6%89%A9%E5%B1%95%E5%88%B0%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E6%99%BA%E4%BD%93%E9%A9%BE%E9%A9%AD%E5%B9%B3%E5%8F%B0.pdf) 
 2.3) University Collaboration Work proposal “复现NV的ENPIRE方法”：<https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%A4%8D%E7%8E%B0NV%E7%9A%84ENPIRE%E6%96%B9%E6%B3%95.docx> 
 2.4) Embodied Agent Harness work proposal “具身WAM的Harness智能体”：<https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%ABWAM%E7%9A%84Harness%E6%99%BA%E8%83%BD%E4%BD%93.docx> 
 2.5) Investment market of embodied AI/robot “Embodied AI Investment”：<https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Embodied%20AI%20Investment.pptx> 
