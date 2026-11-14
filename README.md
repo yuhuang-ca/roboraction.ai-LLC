@@ -10,19 +10,19 @@ Milestone 1
 
 Milestone 2
 
-2.1) Beijing 开放原子生态大会 M-robots OS Workshop PPT;
+2.1) Beijing 开放原子生态大会 M-robots OS Workshop PPT "基于M-Robots 的世界模型智能体Harness 框架";
 
-2.2) Shanghai WAIC'26 workshop PPT and three Harness papers;
+2.2) Shanghai WAIC'26 workshop PPT "世界动作模型具身智体驾驭EAH-WAM" and three Harness for Embodied AI posters: 1）智能体Harness和具身机器人的碰撞； 2）将具身机器人扎根于LLM 智能体驾驭框架; 3）扩展到具身机器人的智体驾驭平台;
 
-2.3) University Collaboration Work proposal;
+2.3) University Collaboration Work proposal "复现NV的ENPIRE方法";
 
-2.4) Embodied Agent Harness work proposal;
+2.4) Embodied Agent Harness work proposal "具身WAM的Harness智能体";
 
-2.5) Investment market of embodied AI/robot;
+2.5) Investment market of embodied AI/robot PPT "Embodied AI Investment";
 
-2.6) Agent Harness work overview;
+2.6) Agent Harness work overview "AI Agent Harness 1/2/3";
 
-2.7) Embodied Agent Robotics work overview.
+2.7) Embodied Agent Robotics work overview "Embodied Agentic Harness 1/2".
 
 Milestone 3
 
