@@ -23,7 +23,7 @@ Milestone 3
 3.1) PPT for presentation "具身智能体驾驭：从大模型到安全、可靠的物理智能" at GOSIM' 26 Shenzhen：<https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E9%BB%84%E6%B5%B4%20%E5%BC%80%E6%94%BE%E6%9C%BA%E5%99%A8%E4%BA%BAEAH.pptx> 
 3.2) The work proposal "机器人合作研究计划" for research collaboration：<https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E9%AB%98%E6%A0%A1%E5%85%AC%E5%8F%B8%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%88%E4%BD%9C%E7%A0%94%E7%A9%B6%E8%AE%A1%E5%88%92.pdf> 
 3.4) A survey paper "Embodied Agentic Harnesses for Physical Intelligence: A Survey": <https://engrxiv.org/preprint/view/8297>
-3.5) A review paper "Recursive Self Improvement for Embodied Agents: A Survey of Mechanisms Evaluation and Open Challenges": <https://www.preprints.org/manuscript/202610.2080>
+3.5) A review paper "Recursive Self Improvement for Embodied Agents—A Survey of Foundations Mechanisms Harnesses and Evaluation": <https://www.preprints.org/manuscript/202610.2080>
 3.6） "人类动作数据 2/3“ Investigation Report PPT：
 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE%202.pdf>
 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE%203.pdf>
