@@ -33,12 +33,15 @@ Appendix：three Harness posters：1）智能体Harness和具身机器人的碰�
 2.6) Agent Harness work overview “AI Agent Harness 1/2/3”;
 
 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/AI%20Agent%20Harness%201.pptx>
+
 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/AI%20Agent%20Harness%202.pptx>
+
 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/AI%20Agent%20Harness%203.pptx>
 
 2.7) Embodied Agent Robotics work overview “Embodied Agentic Harness 1/2”.
 
 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Embodied%20Agentic%20Harness%201.pptx>
+
 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Embodied%20Agentic%20Harness%202.pptx>
 
 Milestone 3
@@ -54,7 +57,9 @@ Milestone 3
 3.5) A review paper "Recursive Self Improvement for Embodied Agents—A Survey of Foundations Mechanisms Harnesses and Evaluation": <https://www.preprints.org/manuscript/202610.2080>
 
 3.6） "人类动作数据 2/3“ Investigation Report PPT：
+
 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE%202.pdf>
+
 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE%203.pdf>
 
 
