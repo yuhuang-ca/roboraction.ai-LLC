@@ -3,7 +3,7 @@ Milestone 1
 1.1) "具身智能的数据解决方案" presentation (PDF) (part of it was presented in Beijing conference OS2ATC'26)： <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/2026%E5%BC%80%E6%94%BE%E5%8E%9F%E5%AD%90%E7%94%9F%E6%80%81%E5%A4%A7%E4%BC%9A%20M-robots%20OS%20Workshop%20HY.pdf>
 1.2) "人类动作数据" Investigation Report PPT：<https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE.pdf>
 Milestone 2
-2.1) Beijing 开放原子生态大会 M-robots OS Workshop PPT “基于M-Robots 的世界模型智能体Harness 框架”： <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/2026%E5%BC%80%E6%94%BE%E5%8E%9F%E5%AD%90%E7%94%9F%E6%80%81%E5%A4%A7%E4%BC%9A%20M-robots%20OS%20Workshop%20HY.pptx> 
+2.1) Beijing 开放原子生态大会 M-robots OS Workshop PPT “基于M-Robots 的世界模型智能体Harness 框架”： <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/2026%E5%BC%80%E6%94%BE%E5%8E%9F%E5%AD%90%E7%94%9F%E6%80%81%E5%A4%A7%E4%BC%9A%20M-robots%20OS%20Workshop%20HY.pdf> 
 2.2) Shanghai WAIC'26 workshop PPT “世界动作模型具身智体驾驭EAH-WAM”： <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%B8%96%E7%95%8C%E5%8A%A8%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%85%B7%E8%BA%AB%E6%99%BA%E4%BD%93%E9%A9%BE%E9%A9%ADEAH-WAM.pptx>
 Appendix：three Harness posters：1）智能体Harness和具身机器人的碰撞； 2）将具身机器人扎根于LLM 智能体驾驭框架; 3）扩展到具身机器人的智体驾驭平台。
 <https://mp.weixin.qq.com/s/06j2SyTP8CPTYzJXPYethw> — [PDF 备份：智能体Harness和具身机器人的碰撞](%E6%99%BA%E8%83%BD%E4%BD%93Harness%E5%92%8C%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E7%A2%B0%E6%92%9E.pdf) 
