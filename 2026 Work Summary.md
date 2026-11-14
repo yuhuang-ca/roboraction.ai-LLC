@@ -1,6 +1,6 @@
-2026 Deliverables and Milestones
+****2026 Deliverables and Milestones****
 
-Milestone 1
+***Milestone 1***
 
 **Milestone Summary:** Established the data research foundation for embodied intelligence through a presentation on data solutions and an investigation of human action data. Part of the data solutions work was presented at OS2ATC'26 in Beijing. These deliverables documented the initial data-focused research direction and provided a starting point for subsequent work on embodied agents and robotics.
 
@@ -8,7 +8,7 @@ Milestone 1
 
 1.2) "人类动作数据" Investigation Report PPT：<https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE.pdf>
 
-Milestone 2
+***Milestone 2***
 
 **Milestone Summary:** Expanded the research from embodied data to agent harness frameworks and their integration with world models and world action models. Deliverables included presentations for the Beijing M-robots OS Workshop and Shanghai WAIC'26, three explanatory articles, proposals for reproducing NVIDIA's ENPIRE method and developing a WAM-based embodied agent harness, and overview series on AI Agent Harness and Embodied Agentic Harness. An embodied AI investment review complemented the technical work with market context.
 
@@ -44,7 +44,7 @@ Appendix：three Harness posters：1）智能体Harness和具身机器人的碰�
 
 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Embodied%20Agentic%20Harness%202.pptx>
 
-Milestone 3
+***Milestone 3***
 
 **Milestone Summary:** Consolidated the embodied agent harness research around safe, reliable physical intelligence and future robotics collaboration. The deliverables combined a GOSIM'26 Shenzhen presentation, a university-industry robotics research proposal, two survey papers covering embodied agentic harnesses and recursive self-improvement, and two further investigations of human action data. Together, these outputs brought the framework, research literature, collaboration planning, and continuing data investigations into a more developed research agenda.
 
