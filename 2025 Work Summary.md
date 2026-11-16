@@ -19,7 +19,7 @@
 [English summary](#summary) · [中文概述](#概述) · [交付清单](#deliverables--交付清单)
 
 <details>
-<summary>查看全部 13 个工作条目 / Browse workstreams</summary>
+<summary>查看全部 14 个工作条目 / Browse workstreams</summary>
 
 - [1. Investigation of World model with physical law (summary reports for about 40 papers);](#deliverable-1)
 - [2. Investigation of LLM Scaling Law](#deliverable-2)
