@@ -83,6 +83,10 @@ The 2024 work connected autonomous driving research with an expanding focus on l
 
 - “Dataset for Autonomous Driving” — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/DatasetAD.pdf)
 
+- “端到端自动驾驶讨论” - [PDF](.pdf)
+
+- “LLM-based Agent for Autonomous Driving 1/2” - [PDF](.pdf)
+
 - “Depth image based self driving” — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/depth%20image%20based%20self%20driving.pdf)
 
 - “数据层传感器融合” — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E6%95%B0%E6%8D%AE%E5%B1%82%E4%BC%A0%E6%84%9F%E5%99%A8%E8%9E%8D%E5%90%88.pdf)
