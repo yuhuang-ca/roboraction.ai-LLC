@@ -12,23 +12,29 @@ Physics +CV + LLM 4 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhua
 
 **2. Investigation of LLM Scaling Law** <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86-%E6%97%B6%E9%97%B4%E7%9A%84%E8%A7%84%E6%A8%A1%E5%8C%96%E5%AE%9A%E5%BE%8B.pdf>
 
-**3. Keynote Speech at OS2ATC' 2025, Beijing**
+**3. Investigation of Embodied AI**
+
+“具身智能的机器人技能学习方法” <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E8%83%BD%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf>
+
+具身机器人策略学习的泛化方法 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AD%96%E7%95%A5%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%B3%9B%E5%8C%96%E6%96%B9%E6%B3%95.docx>
+
+**4. Keynote Speech at OS2ATC' 2025, Beijing**
 
 "具身智能中技能学习面临的挑战" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/OS2ATC_2025_3_25_%E9%BB%84%E6%B5%B4.pdf>
 
-**3. Report of data construction for robot model training (based on NV GR00T work);**
+**5. Report of data construction for robot model training (based on NV GR00T work);**
 
 ​"构建训练机器人基础模型的数据集" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Dora%20%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf>​
 
-**4. talk for session "embodied AI" at conference of Open Atomic Foundation, Changsha, Hunan prov.**
+**6. talk for session "embodied AI" at conference of Open Atomic Foundation, Changsha, Hunan prov.**
 
 "构建Dorabot 开源具身智能大数据平台" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E6%9E%84%E5%BB%BADorabot%20%E5%BC%80%E6%BA%90%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf>
 
-**5. Dorobot project proposal**
+**7. Dorobot project proposal**
 
 "Dorabot 项目“ <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Dorabot%20%E9%A1%B9%E7%9B%AE.pdf>
 
-**6. Dora-rs analysis and report;**
+**8. Dora-rs analysis and report;**
 
 "Intro Dora-rs" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Intro%20Dora-rs.pdf>
 
@@ -36,25 +42,25 @@ Physics +CV + LLM 4 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhua
 
 “类似ROS、⾯向机器⼈开发的中间件Dora-rs" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E7%B1%BB%E4%BC%BCROS%20%E9%9D%A2%E5%90%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91%E7%9A%84%E4%B8%AD%E9%97%B4%E4%BB%B6Dora.pdf>
 
-**7. Talk for session "embodied AI" at conference of Open Atomic Foundation, Chongqing;**
+**9. Talk for session "embodied AI" at conference of Open Atomic Foundation, Chongqing;**
 
 "如何提升自动驾驶和具身智能的性能 —— 在 Dora 社区构建开源大数据平台" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Dora%20%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf>​
 
-**8. Talk at Conference Kaiyuanshe Coscon'25, Beijing;**
+**10. Talk at Conference Kaiyuanshe Coscon'25, Beijing;**
 
 "构建机器人数据管理平台--开源的具身智能平台DoRobot介绍" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/coscon25-slides-YuHuang-embodiedAI-update.pdf>
 
-**9. Talk at Open source operations system OS2ATC'25, Beijing;**
+**11. Talk at Open source operations system OS2ATC'25, Beijing;**
 
 "具身智能的数据解决方案" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-OS2ATC26.pdf>
 
-**10. Organized industry innovation forum at IEEE MIPR'25, San Jose;**
+**12. Organized industry innovation forum at IEEE MIPR'25, San Jose;**
 
 <https://sites.google.com/view/mipr-2025/innovation-forums/embodied-ai-ushering-in-the-next-era-of-intelligent-systems>
 
 Introduction PPT of the forum as modorator <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/MIPR%202025%20EAI-YuHuang.pdf>
 
-**11. Drafted version of the book 《具身智能-从模块化结构到端到端模型》 in Chinese （Electronic Industry Press)**
+**13. Drafted version of the book 《具身智能-从模块化结构到端到端模型》 in Chinese （Electronic Industry Press)**
 
 To be published in 2027
 
@@ -98,7 +104,7 @@ TOC
 
 17 具身智能的基准和评估 
 
-**12. Introduction of Hugging face‘s LeRobot**
+**14. Introduction of Hugging face‘s LeRobot**
 
 Hugging Face’s LeRobot <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Hugging%20Face%E2%80%99s%20LeRobot.pdf>
 
