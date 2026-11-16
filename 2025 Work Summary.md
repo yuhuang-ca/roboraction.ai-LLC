@@ -17,7 +17,7 @@ Physics +CV + LLM 4 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhua
 **3. talk for session "embodied AI" at conference of Open Atomic Foundation, Changsha, Hunan prov.**
 
 "构建Dorabot 开源具身智能大数据平台" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E6%9E%84%E5%BB%BADorabot%20%E5%BC%80%E6%BA%90%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf>
-​
+
 **4. Dorobot project proposal**
 
 "Dorabot 项目“ <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Dorabot%20%E9%A1%B9%E7%9B%AE.pdf>
