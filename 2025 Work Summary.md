@@ -45,7 +45,9 @@ Physics +CV + LLM 4 <>
 
 **9. Organized industry innovation forum at IEEE MIPR'25, San Jose;**
 
+<https://sites.google.com/view/mipr-2025/innovation-forums/embodied-ai-ushering-in-the-next-era-of-intelligent-systems>
+
 Introduction PPT of the forum as modorator <>
 
-** 10. Drafted book of 《具身智能-从模块化结构到端到端模型》 in Chinese （Electronic Industry Press）
+** 10. Drafted version of the book 《具身智能-从模块化结构到端到端模型》 in Chinese （Electronic Industry Press）
 ​
