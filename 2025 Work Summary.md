@@ -209,3 +209,5 @@ To be published in 2027
 [↑ Back to top](#2025--work-report) · [首页 / Home](README.md) · [2024](2024%20Work%20Summary.md) · [2025](2025%20Work%20Summary.md) · [2026](2026%20Work%20Summary.md)
 
 ### 14. “Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA”, arXiv 2512.22208, 2025
+
+[Paper · arXiv]([https://arxiv.org/abs/2512.22208]）
