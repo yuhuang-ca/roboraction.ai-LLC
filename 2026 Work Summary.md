@@ -66,7 +66,9 @@ Appendix：three Harness posters：1）智能体Harness和具身机器人的碰�
 
 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE%203.pdf>
 
-3.7) Drafted version of the book 《具身智能 - 从模块化结构到端到端模型》 and the book 《具身智能 — 从系统平台到智能体驾驭与自我改进》 in Chinese （Electronic Industry Press）
+3.7) “2026全球机器人与具身智能基础模型调研总结报告” <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/2026%E5%85%A8%E7%90%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9E%8B%EF%BC%88VLA_%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B_WAM%EF%BC%89Tier-1%E4%BC%81%E4%B8%9A%E8%B0%83%E7%A0%94%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A.pdf>
+
+3.8) Drafted version of the book 《具身智能 - 从模块化结构到端到端模型》 and the book 《具身智能 — 从系统平台到智能体驾驭与自我改进》 in Chinese （Electronic Industry Press）
 
 To be published in 2027
 
