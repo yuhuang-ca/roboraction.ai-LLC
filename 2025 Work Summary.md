@@ -3,9 +3,12 @@
 **1. Investigation of World model with physical law (summary reports for about 40 papers);**
 ​
 Physics Engine + CV + LLM 1​ <>
-​Physics Engine + CV + LLM 2​ <>
-​Physics +CV + LLM 3 <>
-​Physics +CV + LLM 4 <>
+​
+Physics Engine + CV + LLM 2​ <>
+​
+Physics +CV + LLM 3 <>
+​
+Physics +CV + LLM 4 <>
 
 **2. Report of data construction for robot model training (based on NV GR00T work);**
 
@@ -22,7 +25,9 @@ Physics Engine + CV + LLM 1​ <>
 **5. Dora-rs analysis and report;**
 
 "Intro Dora-rs" <>
+
 "开源软件 Dora 简介" <>
+
 “类似ROS、⾯向机器⼈开发的中间件Dora-rs" <>
 
 **6. Talk for session "embodied AI" at conference of Open Atomic Foundation, Chongqing;**
