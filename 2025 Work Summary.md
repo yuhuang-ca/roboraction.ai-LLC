@@ -1,7 +1,7 @@
 ****2025 Dliverables****​
 
 **1. Investigation of World model with physical law (summary reports for about 40 papers);**
-​
+
 Physics Engine + CV + LLM 1​ <>
 ​
 Physics Engine + CV + LLM 2​ <>
