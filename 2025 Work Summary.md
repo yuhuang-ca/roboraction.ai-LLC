@@ -52,7 +52,7 @@ Physics +CV + LLM 4 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhua
 
 **11. Talk at Open source operations system OS2ATC'25, Beijing;**
 
-"" <>
+“具身智能中技能学习面临的挑战” <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/OS2ATC_2025_3_25_%E9%BB%84%E6%B5%B4.pdf>
 
 **12. Organized industry innovation forum at IEEE MIPR'25, San Jose;**
 
