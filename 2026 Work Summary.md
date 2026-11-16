@@ -4,6 +4,8 @@
 
 **Milestone Summary:** Established a broader research foundation spanning embodied data, world models, and autonomous driving. Deliverables included the embodied intelligence data solutions presentation and its OS2ATC'26 conference version, an investigation of human action data, and continued study of world models incorporating physical laws through the Physics + CV + LLM series. The English-language Autonomous Driving Handbook, published by Springer and Tsinghua University Press in 2026, complemented these investigations with a systematic treatment of autonomous driving technologies. Together, these outputs connected data requirements, physical modeling, and autonomous systems knowledge as a foundation for subsequent embodied agent research.
 
+**里程碑概述**：构建了涵盖具身数据、世界模型及自动驾驶的广泛研究基础。产出成果包括：关于具身智能数据解决方案的演示文稿（及其在 OS2ATC'26 会议上的版本）、针对人类动作数据的调研，以及通过“物理学 + 计算机视觉 + 大语言模型”（Physics + CV + LLM）系列研究，持续探索融合物理定律的世界模型。2026 年由施普林格（Springer）与清华大学出版社联合出版的英文版《自动驾驶手册》（Autonomous Driving Handbook），则从系统性视角对自动驾驶技术进行了全面阐述，与上述研究相辅相成。这些成果将数据需求、物理建模及自动驾驶系统知识有机串联，为后续的具身智能体（Embodied Agent）研究奠定了基础。
+
 1.1) "具身智能的数据解决方案" presentation (PDF) (part of it was presented in Beijing conference OS2ATC'26)： 
 
 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf>
@@ -19,6 +21,8 @@
 ***Milestone 2***
 
 **Milestone Summary:** Developed the research direction for embodied agent harnesses and their integration with world models and world action models. The work combined presentations for the Beijing M-robots OS Workshop and Shanghai WAIC'26 with three explanatory articles and overview series on AI Agent Harness and Embodied Agentic Harness. Research proposals outlined university collaboration to reproduce NVIDIA's ENPIRE method and investigate a WAM-based embodied agent harness, while an embodied AI investment review added market context. This milestone brought together framework studies, technical communication, collaboration planning, and commercial landscape research to define the next steps for embodied agent development.
+
+**里程碑概述**：确立了具身智能体“驾驭”（Harness）的研究方向，并探索了其与世界模型及“世界动作模型”（World Action Models, WAM）的集成。相关工作包括在“北京 M-robots 操作系统研讨会”和“上海世界人工智能大会（WAIC'26）”上的专题报告，以及关于“人工智能体驾驭”（AI Agent Harness）和“具身智能体驾驭”（Embodied Agentic Harness）的系列综述文章。研究方案中提出了高校合作计划，旨在复现英伟达（NVIDIA）的 ENPIRE 方法，并探索基于 WAM 的具身智能体框架；同时，一份具身智能领域的投资分析报告进一步补充了市场背景。该里程碑整合了框架研究、技术交流、合作规划及商业格局分析，明确了具身智能体发展的后续路径。
 
 2.1) Beijing 开放原子生态大会 M-robots OS Workshop PPT “基于M-Robots 的世界模型智能体Harness 框架”： <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/2026%E5%BC%80%E6%94%BE%E5%8E%9F%E5%AD%90%E7%94%9F%E6%80%81%E5%A4%A7%E4%BC%9A%20M-robots%20OS%20Workshop%20YHuang.pdf> 
 
@@ -55,6 +59,8 @@ Appendix：three Harness posters：1）智能体Harness和具身机器人的碰�
 ***Milestone 3***
 
 **Milestone Summary:** Consolidated the research into a wider body of work on safe, reliable physical intelligence, agent harnesses, and recursive self-improvement. Deliverables included the GOSIM'26 Shenzhen presentation, a university-industry robotics collaboration proposal, two survey papers, and follow-up investigations of human action data. A global industry report reviewed leading robotics and embodied foundation model companies across VLA, world-model, and WAM approaches. Two Chinese book drafts, planned for publication by Electronic Industry Press in 2027, organized this knowledge into complementary treatments: one covering embodied intelligence from modular architectures to end-to-end models, and the other covering system platforms, harness engineering, and self-improvement. Their scope also included safety, multi-agent collaboration, benchmarks, evaluation, and scientific applications. Together, these outputs integrated technical surveys, industry analysis, collaboration planning, and book development into a coherent embodied intelligence research agenda.
+
+**里程碑概述**：将既有研究整合为一套关于“安全可靠的物理智能”、“智能体驾驭”及“递归式自我提升”的综合研究体系。产出成果包括：GOSIM'26 深圳大会的演示文稿、一项产学研机器人合作提案、两篇综述论文，以及对人类动作数据的进一步深入调研。此外，一份全球行业报告梳理了机器人及具身基础模型领域的领先企业，涵盖了 VLA（视觉-语言-动作模型）、世界模型及 WAM 等技术路径。两部中文著作（计划于 2027 年由电子工业出版社出版）对上述知识进行了系统梳理：其中一部探讨从模块化架构到端到端模型的具身智能技术；另一部则聚焦于系统平台、驾驭工程及自我提升机制。这些内容还涵盖了安全性、多智能体协作、基准测试、评估体系以及科学应用等多个维度。这些产出共同将技术综述、行业分析、合作规划以及书籍编撰整合为一套连贯的具身智能研究议程。
 
 3.1) PPT for presentation "具身智能体驾驭：从大模型到安全、可靠的物理智能" at GOSIM' 26 Shenzhen：<https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E9%BB%84%E6%B5%B4%20%E5%BC%80%E6%94%BE%E6%9C%BA%E5%99%A8%E4%BA%BAEAH.pptx> 
 
