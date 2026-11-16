@@ -11,7 +11,7 @@ From autonomous driving and AI agents to embodied data infrastructure, agent har
 | 年度 | 研究重点 | 报告入口 |
 | :--- | :--- | :--- |
 | **2024** | 自动驾驶 · LLM 与智能体 · 应用与数据 | [15 个工作条目 →](2024%20Work%20Summary.md) |
-| **2025** | 世界模型 · Dora-rs / LeRobot · 具身数据基础 | [13 个工作条目 →](2025%20Work%20Summary.md) |
+| **2025** | 世界模型 · Dora-rs / LeRobot · 具身数据基础 | [14 个工作条目 →](2025%20Work%20Summary.md) |
 | **2026** | 数据与模型 · Harness · 综述、产业研究与书稿 | [Milestones 1–3 →](2026%20Work%20Summary.md) |
 
 > [!NOTE]
