@@ -10,7 +10,9 @@ Physics +CV + LLM 3 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhua
 
 Physics +CV + LLM 4 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Physics%20%2BCV%20%2B%20LLM%204.pptx>
 
-**2. Keynote Speech at OS2ATC' 2025, Beijing**
+**2. Investigation of LLM Scaling Law** <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86-%E6%97%B6%E9%97%B4%E7%9A%84%E8%A7%84%E6%A8%A1%E5%8C%96%E5%AE%9A%E5%BE%8B.pdf>
+
+**3. Keynote Speech at OS2ATC' 2025, Beijing**
 
 "具身智能中技能学习面临的挑战" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/OS2ATC_2025_3_25_%E9%BB%84%E6%B5%B4.pdf>
 
