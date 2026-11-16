@@ -101,4 +101,4 @@ Talk PPT “Levels of AI Agent” <https://github.com/yuhuang-ca/roboraction.ai-
 
 “大模型标注工具” <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7.pdf>
 
-**16. CoRL’24 会议简记** <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/CoRL%E2%80%9924%20%E4%BC%9A%E8%AE%AE%E7%AE%80%E8%AE%B0.docx>
+**16. CoRL’24 会议简记，Munich，Germany** <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/CoRL%E2%80%9924%20%E4%BC%9A%E8%AE%AE%E7%AE%80%E8%AE%B0.docx>
