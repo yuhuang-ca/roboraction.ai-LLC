@@ -24,7 +24,7 @@ Physics +CV + LLM 4 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhua
 
 **5. Report of data construction for robot model training (based on NV GR00T work);**
 
-​"构建训练机器人基础模型的数据集" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Dora%20%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf>​
+​"构建训练机器人基础模型的数据集" <github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E6%9E%84%E5%BB%BA%E8%AE…%B0%E6%8D%AE%E9%9B%86.pdf>​
 
 **6. talk for session "embodied AI" at conference of Open Atomic Foundation, Changsha, Hunan prov.**
 
@@ -44,27 +44,23 @@ Physics +CV + LLM 4 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhua
 
 **9. Talk for session "embodied AI" at conference of Open Atomic Foundation, Chongqing;**
 
-"如何提升自动驾驶和具身智能的性能 —— 在 Dora 社区构建开源大数据平台" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Dora%20%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf>​
+"如何提升自动驾驶和具身智能的性能 —— 在 Dora 社区构建开源大数据平台" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Dora%20%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf​>
 
-**10. Talk at Conference Kaiyuanshe Coscon'25, Beijing;**
+10. Talk at Conference Kaiyuanshe Coscon'25, Beijing;
 
 "构建机器人数据管理平台--开源的具身智能平台DoRobot介绍" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/coscon25-slides-YuHuang-embodiedAI-update.pdf>
 
-**11. Talk at Open source operations system OS2ATC'25, Beijing;**
-
-“具身智能中技能学习面临的挑战” <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/OS2ATC_2025_3_25_%E9%BB%84%E6%B5%B4.pdf>
-
-**12. Organized industry innovation forum at IEEE MIPR'25, San Jose;**
+**11. Organized industry innovation forum at IEEE MIPR'25, San Jose;**
 
 <https://sites.google.com/view/mipr-2025/innovation-forums/embodied-ai-ushering-in-the-next-era-of-intelligent-systems>
 
 Introduction PPT of the forum as modorator <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/MIPR%202025%20EAI-YuHuang.pdf>
 
-**13. Drafted version of the book 《具身智能-从模块化结构到端到端模型》 in Chinese （Electronic Industry Press)**
+**12. Drafted version of the book 《具身智能-从模块化结构到端到端模型》 in Chinese （Electronic Industry Press)**
 
 To be published in 2027
 
-***《具身智能-从模块化结构到端到端模型》***
+**《具身智能-从模块化结构到端到端模型》**
 
 TOC
 
@@ -100,15 +96,15 @@ TOC
 
 15 具身智能的安全性
 
-16 具身多智体协同系统 
+16 具身多智体协同系统
 
-17 具身智能的基准和评估 
+17 具身智能的基准和评估
 
-**14. Introduction of Hugging face‘s LeRobot**
+**13. Introduction of Hugging face‘s LeRobot**
 
 Hugging Face’s LeRobot <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Hugging%20Face%E2%80%99s%20LeRobot.pdf>
 
-Hugging Face LeRobot  数据集管理 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Hugging%20Face%20LeRobot%20%20%E6%95%B0%E6%8D%AE%E9%9B%86%E7%AE%A1%E7%90%86.pdf>
+Hugging Face LeRobot 数据集管理 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Hugging%20Face%20LeRobot%20%20%E6%95%B0%E6%8D%AE%E9%9B%86%E7%AE%A1%E7%90%86.pdf>
 
 LeRobot 机器人控制系统 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/LeRobot%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F.pdf>
 
@@ -122,14 +118,18 @@ LeRobot的开发指南 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yu
 
 安装和使用 SO101 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8%20SO101.pdf>
 
-****In summary****
+**In summary**
 
-In 2025, the work centered on building the data and middleware foundation for embodied AI, and on establishing a public presence for that work in the open-source and research communities.
+In 2025, the work built the research, data and middleware foundation for embodied AI, and established a public presence for it in the open-source and research communities.
 
-Established the open-source data platform and middleware foundation for embodied intelligence. The work combined an analysis of the Dora-rs robotics middleware, a project proposal for the Dorabot embodied AI data platform, and a report on dataset construction for robot foundation model training based on NVIDIA’s GR00T work. These were presented in four conference talks (Open Atom Foundation in Changsha and Chongqing, COSCon’25 and OS2ATC’25 in Beijing) and an industry innovation forum organized at IEEE MIPR’25 in San Jose. In parallel, a literature investigation of physics-grounded world models covered about 40 papers, and a 17-chapter book on embodied AI was drafted for publication in 2027.
+Research investigations covered three directions: physics-grounded world models (about 40 papers), inference-time scaling laws for large language models, and embodied AI itself, with studies of robot skill learning methods and of generalization in robot policy learning. On the engineering side, the work analyzed two open-source robotics stacks: the Dora-rs middleware, and Hugging Face’s LeRobot, documented in an eight-part series covering its dataset management, robot control, environment interface and policy systems, a development guide, and hands-on setup of the SO100 and SO101 arms. This fed into a project proposal for the Dorabot embodied AI data platform and a report on dataset construction for robot foundation model training based on NVIDIA’s GR00T work.
 
-****概述****
+The results were presented in four talks: a keynote at OS2ATC’25 in Beijing, the Open Atom Foundation conferences in Changsha and Chongqing, and COSCon’25 in Beijing. An industry innovation forum on embodied AI was also organized at IEEE MIPR’25 in San Jose, and a 17-chapter book on embodied AI was drafted for publication in 2027.
 
-2025年，相关工作重点在于构建具身智能（Embodied AI）的数据与中间件基础，并致力于在开源及学术研究社区中推广这些成果。
+**概述**
 
-团队建立了面向具身智能的开源数据平台与中间件基础。具体工作包括：对Dora-rs机器人中间件的分析、针对Dorabot具身智能数据平台的项目提案，以及一份基于NVIDIA GR00T研究成果的机器人基础模型训练数据集构建报告。这些成果通过四场会议演讲（分别在长沙和重庆举办的“开放原子开源基金会”活动、北京的COSCon’25及OS2ATC’25）以及在圣何塞IEEE MIPR’25会议期间举办的行业创新论坛进行了展示。与此同时，团队还对“基于物理的世界模型”（physics-grounded world models）进行了文献调研，涵盖约40篇学术论文；此外，还撰写了一本关于具身智能的专著（共17章），计划于2027年出版。
+2025年，工作围绕具身智能（Embodied AI）的研究、数据与中间件基础展开，并在开源及学术研究社区中推广这些成果。
+
+调研工作涵盖三个方向：基于物理规律的世界模型（约40篇论文）、大模型推理时间的规模化定律，以及具身智能本身，包括机器人技能学习方法和机器人策略学习的泛化方法。工程方面，分析了两套开源机器人软件栈：Dora-rs中间件，以及Hugging Face的LeRobot。后者形成八份系列文档，涵盖数据集管理、机器人控制、环境接口和策略系统、开发指南，以及SO100和SO101机械臂的安装与使用。在此基础上，完成了Dorabot具身智能数据平台的项目提案，以及一份基于NVIDIA GR00T工作的机器人基础模型训练数据集构建报告。
+
+这些成果通过四场演讲对外发布：北京OS2ATC’25的主旨演讲、开放原子开源基金会在长沙和重庆的两场会议，以及北京的COSCon’25。此外，在圣何塞IEEE MIPR’25上组织了具身智能产业创新论坛，并完成了一本17章的具身智能专著书稿，计划于2027年出版。
