@@ -176,7 +176,7 @@ The 2024 work connected autonomous driving research with an expanding focus on l
 
 <a id="deliverable-13"></a>
 
-### 13. 7B Fully Open Source Moxin-LLM/VLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement, arXiv 2412.06845, 2024
+### 13. “7B Fully Open Source Moxin-LLM/VLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement”, arXiv 2412.06845, 2024
 
 [Paper · arXiv](https://arxiv.org/abs/2412.06845)
 
