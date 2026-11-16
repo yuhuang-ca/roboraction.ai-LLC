@@ -34,12 +34,11 @@ Physics +CV + LLM 4 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhua
 
 "如何提升自动驾驶和具身智能的性能 —— 在 Dora 社区构建开源大数据平台" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Dora%20%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf>​
 
-**7. Talk at Conference Kaiyuanshe Coscon'25, Beijing; **
+**7. Talk at Conference Kaiyuanshe Coscon'25, Beijing;**
 
 "构建机器人数据管理平台--开源的具身智能平台DoRobot介绍" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/coscon25-slides-YuHuang-embodiedAI-update.pdf>
-​
 
-**8. Talk at Open source operations system OS2ATC'25, Beijing; **
+**8. Talk at Open source operations system OS2ATC'25, Beijing;**
 
 "具身智能中技能学习面临的挑战" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-OS2ATC26.pdf>
 
@@ -53,7 +52,7 @@ Introduction PPT of the forum as modorator <https://github.com/yuhuang-ca/robora
 
 To be published in 2027
 
-《具身智能-从模块化结构到端到端模型》
+***《具身智能-从模块化结构到端到端模型》***
 
 TOC
 
