@@ -8,7 +8,7 @@
 
 1.2) "人类动作数据" Investigation Report PPT：<https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE.pdf>
 
-1.3）Continued Investigation of World model with physical law "Physics + CV + LLM 5" <>
+1.3）Continued Investigation of World model with physical law "Physics + CV + LLM 5" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Physics%20%2BCV%20%2B%20LLM%205.pptx>
 
 ***Milestone 2***
 
