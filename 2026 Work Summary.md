@@ -4,7 +4,7 @@
 
 **Milestone Summary:** Established the data research foundation for embodied intelligence through a presentation on data solutions and an investigation of human action data. Part of the data solutions work was presented at OS2ATC'26 in Beijing. These deliverables documented the initial data-focused research direction and provided a starting point for subsequent work on embodied agents and robotics.
 
-1.1) "具身智能的数据解决方案" presentation (PDF) (part of it was presented in Beijing conference OS2ATC'26)： <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf>
+1.1) "具身智能的数据解决方案" presentation (PDF) (part of it was presented in Beijing conference OS2ATC'26)： <>
 
 1.2) "人类动作数据" Investigation Report PPT：<https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE.pdf>
 
