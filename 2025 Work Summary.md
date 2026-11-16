@@ -208,7 +208,7 @@ To be published in 2027
 
 ### 14. “Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA”, arXiv 2512.22208, 2025
 
-[Paper · arXiv](https://arxiv.org/abs/2512.22208）
+[Paper · arXiv](https://arxiv.org/abs/2512.22208)
 
 ---
 
