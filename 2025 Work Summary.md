@@ -49,9 +49,11 @@ Physics +CV + LLM 4 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhua
 
 Introduction PPT of the forum as modorator <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/MIPR%202025%20EAI-YuHuang.pdf>
 
-** 10. Drafted version of the book 《具身智能-从模块化结构到端到端模型》 in Chinese （Electronic Industry Press）
+** 10. Drafted version of the book 《具身智能-从模块化结构到端到端模型》 in Chinese （Electronic Industry Press）**
 
 To be published in 2027
+
+《具身智能-从模块化结构到端到端模型》
 
 TOC
 
