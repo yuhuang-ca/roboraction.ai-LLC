@@ -127,3 +127,7 @@ LeRobot的开发指南 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yu
 In 2025, the work centered on building the data and middleware foundation for embodied AI, and on establishing a public presence for that work in the open-source and research communities.
 
 Established the open-source data platform and middleware foundation for embodied intelligence. The work combined an analysis of the Dora-rs robotics middleware, a project proposal for the Dorabot embodied AI data platform, and a report on dataset construction for robot foundation model training based on NVIDIA’s GR00T work. These were presented in four conference talks (Open Atom Foundation in Changsha and Chongqing, COSCon’25 and OS2ATC’25 in Beijing) and an industry innovation forum organized at IEEE MIPR’25 in San Jose. In parallel, a literature investigation of physics-grounded world models covered about 40 papers, and a 17-chapter book on embodied AI was drafted for publication in 2027.
+
+2025年，相关工作重点在于构建具身智能（Embodied AI）的数据与中间件基础，并致力于在开源及学术研究社区中推广这些成果。
+
+团队建立了面向具身智能的开源数据平台与中间件基础。具体工作包括：对Dora-rs机器人中间件的分析、针对Dorabot具身智能数据平台的项目提案，以及一份基于NVIDIA GR00T研究成果的机器人基础模型训练数据集构建报告。这些成果通过四场会议演讲（分别在长沙和重庆举办的“开放原子开源基金会”活动、北京的COSCon’25及OS2ATC’25）以及在圣何塞IEEE MIPR’25会议期间举办的行业创新论坛进行了展示。与此同时，团队还对“基于物理的世界模型”（physics-grounded world models）进行了文献调研，涵盖约40篇学术论文；此外，还撰写了一本关于具身智能的专著（共17章），计划于2027年出版。
