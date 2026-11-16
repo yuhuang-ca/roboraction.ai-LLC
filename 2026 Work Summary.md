@@ -20,7 +20,7 @@
 
 **Milestone Summary:** Expanded the research from embodied data to agent harness frameworks and their integration with world models and world action models. Deliverables included presentations for the Beijing M-robots OS Workshop and Shanghai WAIC'26, three explanatory articles, proposals for reproducing NVIDIA's ENPIRE method and developing a WAM-based embodied agent harness, and overview series on AI Agent Harness and Embodied Agentic Harness. An embodied AI investment review complemented the technical work with market context.
 
-2.1) Beijing 开放原子生态大会 M-robots OS Workshop PPT “基于M-Robots 的世界模型智能体Harness 框架”： <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/2026%E5%BC%80%E6%94%BE%E5%8E%9F%E5%AD%90%E7%94%9F%E6%80%81%E5%A4%A7%E4%BC%9A%20M-robots%20OS%20Workshop%20HY.pdf> 
+2.1) Beijing 开放原子生态大会 M-robots OS Workshop PPT “基于M-Robots 的世界模型智能体Harness 框架”： <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/2026%E5%BC%80%E6%94%BE%E5%8E%9F%E5%AD%90%E7%94%9F%E6%80%81%E5%A4%A7%E4%BC%9A%20M-robots%20OS%20Workshop%20YHuang.pdf> 
 
 2.2) Shanghai WAIC'26 workshop PPT “世界动作模型具身智体驾驭EAH-WAM”： <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%B8%96%E7%95%8C%E5%8A%A8%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%85%B7%E8%BA%AB%E6%99%BA%E4%BD%93%E9%A9%BE%E9%A9%ADEAH-WAM.pptx>
 
