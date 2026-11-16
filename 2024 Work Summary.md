@@ -83,17 +83,17 @@ The 2024 work connected autonomous driving research with an expanding focus on l
 
 - “Dataset for Autonomous Driving” — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/DatasetAD.pdf)
 
+- “Depth image based self driving” — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/depth%20image%20based%20self%20driving.pdf)
+
+- “数据层传感器融合” — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E6%95%B0%E6%8D%AE%E5%B1%82%E4%BC%A0%E6%84%9F%E5%99%A8%E8%9E%8D%E5%90%88.pdf)
+
 - “端到端自动驾驶讨论” - [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E7%AB%AF%E5%88%B0%E7%AB%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%AE%A8%E8%AE%BA.pdf)
 
-“LLM-based Agent for Autonomous Driving 1/2” PPT
+“LLM-based Agent for Autonomous Driving 1/2” PPT 
 
 - LLM-based Agent for Autonomous Driving 1.pdf [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/LLM-based%20Agent%20for%20Autonomous%20Driving%201.pdf)
 
 - LLM-based Agent for Autonomous Driving 1.pdf [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/LLM-based%20Agent%20for%20Autonomous%20Driving%202.pdf.pdf)
-
-- “Depth image based self driving” — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/depth%20image%20based%20self%20driving.pdf)
-
-- “数据层传感器融合” — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E6%95%B0%E6%8D%AE%E5%B1%82%E4%BC%A0%E6%84%9F%E5%99%A8%E8%9E%8D%E5%90%88.pdf)
 
 <a id="deliverable-5"></a>
 
