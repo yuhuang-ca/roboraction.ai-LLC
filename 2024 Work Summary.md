@@ -1,4 +1,4 @@
-<img width="1094" height="152" alt="image" src="https://github.com/user-attachments/assets/028ce4f4-b0a4-4d45-9970-cf664aa71afd" />****2024 Deliverables****
+****2024 Deliverables****
 
 **1. Investigation of MOE**
    
