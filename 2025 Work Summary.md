@@ -97,7 +97,7 @@ The results were presented in four talks: a keynote at OS2ATC’25 in Beijing, t
 
 <a id="deliverable-6"></a>
 
-### 6. talk for session "embodied AI" at conference of Open Atomic Foundation, Changsha, Hunan prov.
+### 6. Talk for session "embodied AI" at conference of Open Atomic Foundation, Changsha, Hunan prov.
 
 - "构建Dorabot 开源具身智能大数据平台" — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E6%9E%84%E5%BB%BADorabot%20%E5%BC%80%E6%BA%90%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf)
 
@@ -207,3 +207,5 @@ To be published in 2027
 ---
 
 [↑ Back to top](#2025--work-report) · [首页 / Home](README.md) · [2024](2024%20Work%20Summary.md) · [2025](2025%20Work%20Summary.md) · [2026](2026%20Work%20Summary.md)
+
+### 14. “Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA”, arXiv 2512.22208, 2025
