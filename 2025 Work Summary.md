@@ -24,7 +24,7 @@ Physics +CV + LLM 4 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhua
 
 **5. Report of data construction for robot model training (based on NV GR00T work);**
 
-​"构建训练机器人基础模型的数据集" <github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E6%9E%84%E5%BB%BA%E8%AE…%B0%E6%8D%AE%E9%9B%86.pdf>​
+​"构建训练机器人基础模型的数据集" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E6%9E%84%E5%BB%BA%E8%AE…%B0%E6%8D%AE%E9%9B%86.pdf>​
 
 **6. talk for session "embodied AI" at conference of Open Atomic Foundation, Changsha, Hunan prov.**
 
@@ -46,7 +46,7 @@ Physics +CV + LLM 4 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhua
 
 "如何提升自动驾驶和具身智能的性能 —— 在 Dora 社区构建开源大数据平台" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Dora%20%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf​>
 
-10. Talk at Conference Kaiyuanshe Coscon'25, Beijing;
+**10. Talk at Conference Kaiyuanshe Coscon'25, Beijing;**
 
 "构建机器人数据管理平台--开源的具身智能平台DoRobot介绍" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/coscon25-slides-YuHuang-embodiedAI-update.pdf>
 
