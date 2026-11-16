@@ -92,6 +92,24 @@ TOC
 
 17 具身智能的基准和评估 
 
+**11. Introduction of Hugging face‘s LeRobot**
+
+Hugging Face’s LeRobot <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Hugging%20Face%E2%80%99s%20LeRobot.pdf>
+
+Hugging Face LeRobot  数据集管理 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Hugging%20Face%20LeRobot%20%20%E6%95%B0%E6%8D%AE%E9%9B%86%E7%AE%A1%E7%90%86.pdf>
+
+LeRobot 机器人控制系统 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/LeRobot%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F.pdf>
+
+LeRobot 环境接口系统 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/LeRobot%20%E7%8E%AF%E5%A2%83%E6%8E%A5%E5%8F%A3%E7%B3%BB%E7%BB%9F.pdf>
+
+LeRobot 策略系统 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/LeRobot%20%E7%AD%96%E7%95%A5%E7%B3%BB%E7%BB%9F.pdf>
+
+LeRobot的开发指南 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/LeRobot%E7%9A%84%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf>
+
+通过 LeRobot 使用 SO100 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E9%80%9A%E8%BF%87%20LeRobot%20%E4%BD%BF%E7%94%A8%20SO100.pdf>
+
+安装和使用 SO101 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8%20SO101.pdf>
+
 ****In summary****
 
 In 2025, the work centered on building the data and middleware foundation for embodied AI, and on establishing a public presence for that work in the open-source and research communities.
