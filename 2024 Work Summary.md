@@ -4,7 +4,7 @@
 
 <https://llvm-ad.github.io/WACV_2024/>
 
-Keynote Speech “KeynoteSpeech-YuHuang-30mins” <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/KeynoteSpeech-YuHuang-30mins.pdf>
+Keynote Speech “Large Scale Foundation Models for Autonomous Driving” <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/KeynoteSpeech-YuHuang-30mins.pdf>
 
 **2. Work with OpenPilot**
 
