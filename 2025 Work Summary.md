@@ -1,4 +1,4 @@
-<img width="468" height="258" alt="image" src="https://github.com/user-attachments/assets/2e8b5a10-5eae-454f-af6c-8630094bd852" />****2025 Dliverables****​
+****2025 Dliverables****​
 
 **1. Investigation of World model with physical law (summary reports for about 40 papers);**
 
