@@ -89,6 +89,8 @@ The 2024 work connected autonomous driving research with an expanding focus on l
 
 - “端到端自动驾驶讨论” - [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E7%AB%AF%E5%88%B0%E7%AB%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%AE%A8%E8%AE%BA.pdf)
 
+- “World Model for Autonomous Driving” [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/World%20Model%20for%20Autonomous%20Driving.pdf)
+
 “LLM-based Agent for Autonomous Driving 1/2” PPT 
 
 - LLM-based Agent for Autonomous Driving 1.pdf [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/LLM-based%20Agent%20for%20Autonomous%20Driving%201.pdf)
