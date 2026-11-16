@@ -34,7 +34,7 @@
 - [11. Organized industry innovation forum at IEEE MIPR'25, San Jose;](#deliverable-11)
 - [12. Drafted version of the book 《具身智能-从模块化结构到端到端模型》 in Chinese （Electronic Industry Press)](#deliverable-12)
 - [13. Introduction of Hugging face‘s LeRobot](#deliverable-13)
-
+- [14. “Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA”, arXiv 2512.22208](#deliverable-14)
 </details>
 
 ---
