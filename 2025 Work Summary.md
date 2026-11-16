@@ -40,7 +40,7 @@ Physics +CV + LLM 4 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhua
 
 **8. Talk at Open source operations system OS2ATC'25, Beijing;**
 
-"具身智能中技能学习面临的挑战" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-OS2ATC26.pdf>
+"具身智能的数据解决方案" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-OS2ATC26.pdf>
 
 **9. Organized industry innovation forum at IEEE MIPR'25, San Jose;**
 
@@ -92,5 +92,8 @@ TOC
 
 17 具身智能的基准和评估 
 
+****In summary****
 
-​
+In 2025, the work centered on building the data and middleware foundation for embodied AI, and on establishing a public presence for that work in the open-source and research communities.
+
+Established the open-source data platform and middleware foundation for embodied intelligence. The work combined an analysis of the Dora-rs robotics middleware, a project proposal for the Dorabot embodied AI data platform, and a report on dataset construction for robot foundation model training based on NVIDIA’s GR00T work. These were presented in four conference talks (Open Atom Foundation in Changsha and Chongqing, COSCon’25 and OS2ATC’25 in Beijing) and an industry innovation forum organized at IEEE MIPR’25 in San Jose. In parallel, a literature investigation of physics-grounded world models covered about 40 papers, and a 17-chapter book on embodied AI was drafted for publication in 2027.
