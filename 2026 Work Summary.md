@@ -62,4 +62,6 @@ Appendix：three Harness posters：1）智能体Harness和具身机器人的碰�
 
 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE%203.pdf>
 
+3.7) Drafted version of the book 《具身智能 - 从模块化结构到端到端模型》 and the book 《具身智能 — 从系统平台到智能体驾驭与自我改进》 in Chinese （Electronic Industry Press）
 
+To be published in 2027
