@@ -36,7 +36,7 @@ Keynote Speech “Large Scale Foundation Models for Autonomous Driving” <https
 
 "最近LLM模型合并的方法" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E6%9C%80%E8%BF%91LLM%E6%A8%A1%E5%9E%8B%E5%90%88%E5%B9%B6%E7%9A%84%E6%96%B9%E6%B3%95.pdf>
 
-**7. Investigation of Tool Use / Function Calling**
+**7. Investigation of Agent Tool Use / Function Calling**
 
 "基于LLM的函数调用工具使用" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%9F%BA%E4%BA%8ELLM%E7%9A%84%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8.pdf>
 
