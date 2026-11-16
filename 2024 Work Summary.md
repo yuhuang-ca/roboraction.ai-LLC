@@ -60,7 +60,7 @@ Keynote Speech “Large Scale Foundation Models for Autonomous Driving” <https
 
 <https://sites.google.com/view/mipr2024/innovation-forums/innovation-forums-2>
 
-“Levels of AI Agent” <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Yu-Huang_Levels%20of%20AI%20Agents.pdf>
+Talk PPT “Levels of AI Agent” <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Yu-Huang_Levels%20of%20AI%20Agents.pdf>
 
 **11. LLM Application in Games** “游戏-语言大模型-智体-1/2” 
 
