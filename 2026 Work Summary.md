@@ -2,7 +2,7 @@
 
 ***Milestone 1***
 
-**Milestone Summary:** Established the data research foundation for embodied intelligence through a presentation on data solutions and an investigation of human action data. Part of the data solutions work was presented at OS2ATC'26 in Beijing. These deliverables documented the initial data-focused research direction and provided a starting point for subsequent work on embodied agents and robotics.
+**Milestone Summary:** Established a broader research foundation spanning embodied data, world models, and autonomous driving. Deliverables included the embodied intelligence data solutions presentation and its OS2ATC'26 conference version, an investigation of human action data, and continued study of world models incorporating physical laws through the Physics + CV + LLM series. The English-language Autonomous Driving Handbook, published by Springer and Tsinghua University Press in 2026, complemented these investigations with a systematic treatment of autonomous driving technologies. Together, these outputs connected data requirements, physical modeling, and autonomous systems knowledge as a foundation for subsequent embodied agent research.
 
 1.1) "具身智能的数据解决方案" presentation (PDF) (part of it was presented in Beijing conference OS2ATC'26)： 
 
@@ -18,7 +18,7 @@
 
 ***Milestone 2***
 
-**Milestone Summary:** Expanded the research from embodied data to agent harness frameworks and their integration with world models and world action models. Deliverables included presentations for the Beijing M-robots OS Workshop and Shanghai WAIC'26, three explanatory articles, proposals for reproducing NVIDIA's ENPIRE method and developing a WAM-based embodied agent harness, and overview series on AI Agent Harness and Embodied Agentic Harness. An embodied AI investment review complemented the technical work with market context.
+**Milestone Summary:** Developed the research direction for embodied agent harnesses and their integration with world models and world action models. The work combined presentations for the Beijing M-robots OS Workshop and Shanghai WAIC'26 with three explanatory articles and overview series on AI Agent Harness and Embodied Agentic Harness. Research proposals outlined university collaboration to reproduce NVIDIA's ENPIRE method and investigate a WAM-based embodied agent harness, while an embodied AI investment review added market context. This milestone brought together framework studies, technical communication, collaboration planning, and commercial landscape research to define the next steps for embodied agent development.
 
 2.1) Beijing 开放原子生态大会 M-robots OS Workshop PPT “基于M-Robots 的世界模型智能体Harness 框架”： <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/2026%E5%BC%80%E6%94%BE%E5%8E%9F%E5%AD%90%E7%94%9F%E6%80%81%E5%A4%A7%E4%BC%9A%20M-robots%20OS%20Workshop%20YHuang.pdf> 
 
@@ -54,7 +54,7 @@ Appendix：three Harness posters：1）智能体Harness和具身机器人的碰�
 
 ***Milestone 3***
 
-**Milestone Summary:** Consolidated the embodied agent harness research around safe, reliable physical intelligence and future robotics collaboration. The deliverables combined a GOSIM'26 Shenzhen presentation, a university-industry robotics research proposal, two survey papers covering embodied agentic harnesses and recursive self-improvement, and two further investigations of human action data. Together, these outputs brought the framework, research literature, collaboration planning, and continuing data investigations into a more developed research agenda.
+**Milestone Summary:** Consolidated the research into a wider body of work on safe, reliable physical intelligence, agent harnesses, and recursive self-improvement. Deliverables included the GOSIM'26 Shenzhen presentation, a university-industry robotics collaboration proposal, two survey papers, and follow-up investigations of human action data. A global industry report reviewed leading robotics and embodied foundation model companies across VLA, world-model, and WAM approaches. Two Chinese book drafts, planned for publication by Electronic Industry Press in 2027, organized this knowledge into complementary treatments: one covering embodied intelligence from modular architectures to end-to-end models, and the other covering system platforms, harness engineering, and self-improvement. Their scope also included safety, multi-agent collaboration, benchmarks, evaluation, and scientific applications. Together, these outputs integrated technical surveys, industry analysis, collaboration planning, and book development into a coherent embodied intelligence research agenda.
 
 3.1) PPT for presentation "具身智能体驾驭：从大模型到安全、可靠的物理智能" at GOSIM' 26 Shenzhen：<https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E9%BB%84%E6%B5%B4%20%E5%BC%80%E6%94%BE%E6%9C%BA%E5%99%A8%E4%BA%BAEAH.pptx> 
 
