@@ -12,7 +12,7 @@ Physics +CV + LLM 4 <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhua
 
 **2. Keynote Speech at OS2ATC' 2025, Beijing**
 
-"OS2ATC_2025_3_25" <>
+"具身智能中技能学习面临的挑战" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/OS2ATC_2025_3_25_%E9%BB%84%E6%B5%B4.pdf>
 
 **3. Report of data construction for robot model training (based on NV GR00T work);**
 
