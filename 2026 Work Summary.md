@@ -10,6 +10,8 @@
 
 1.3）Continued Investigation of World model with physical law "Physics + CV + LLM 5" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Physics%20%2BCV%20%2B%20LLM%205.pptx>
 
+1.4) Egnlish version of book "**Autonomous Driving Handbook**", Springer-Tsinghua, April, 2026 <https://link.springer.com/book/10.1007/978-981-95-3725-9>
+
 ***Milestone 2***
 
 **Milestone Summary:** Expanded the research from embodied data to agent harness frameworks and their integration with world models and world action models. Deliverables included presentations for the Beijing M-robots OS Workshop and Shanghai WAIC'26, three explanatory articles, proposals for reproducing NVIDIA's ENPIRE method and developing a WAM-based embodied agent harness, and overview series on AI Agent Harness and Embodied Agentic Harness. An embodied AI investment review complemented the technical work with market context.
