@@ -40,7 +40,7 @@ Keynote Speech “Large Scale Foundation Models for Autonomous Driving” <https
 
 "基于LLM的函数调用工具使用" <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%9F%BA%E4%BA%8ELLM%E7%9A%84%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8.pdf>
 
-**8. AI Platform with LLM Investigation**
+**8. Investigation of AI Platform with LLM**
 
 “LLM智体方面的综述” <https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/LLM%E6%99%BA%E4%BD%93%E6%96%B9%E9%9D%A2%E7%9A%84%E7%BB%BC%E8%BF%B0.pptx>
 
