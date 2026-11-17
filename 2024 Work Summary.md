@@ -93,13 +93,13 @@ The autonomous driving investigations also examined end-to-end approaches, world
 
 - “端到端自动驾驶讨论” - [PDF](2024doc/%E7%AB%AF%E5%88%B0%E7%AB%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%AE%A8%E8%AE%BA.pdf)
 
-- “World Model for Autonomous Driving” [PDF](2024doc/World%20Model%20for%20Autonomous%20Driving.pdf)
+- “World Model for Autonomous Driving” - [PDF](2024doc/World%20Model%20for%20Autonomous%20Driving.pdf)
 
 “LLM-based Agent for Autonomous Driving 1/2” PPT 
 
-- LLM-based Agent for Autonomous Driving 1.pdf [PDF](2024doc/LLM-based%20Agent%20for%20Autonomous%20Driving%201.pdf)
+- LLM-based Agent for Autonomous Driving 1.pdf - [PDF](2024doc/LLM-based%20Agent%20for%20Autonomous%20Driving%201.pdf)
 
-- LLM-based Agent for Autonomous Driving 2.pdf [PDF](2024doc/LLM-based%20Agent%20for%20Autonomous%20Driving%202.pdf)
+- LLM-based Agent for Autonomous Driving 2.pdf - [PDF](2024doc/LLM-based%20Agent%20for%20Autonomous%20Driving%202.pdf)
 
 <a id="deliverable-5"></a>
 
