@@ -4,7 +4,7 @@
 
 From autonomous driving and AI agents to embodied data infrastructure, agent harnesses and physical intelligence.
 
-![2024—2026 三年研究脉络：2024 自动驾驶与智能体基础；2025 具身数据与软件基础；2026 智能体驾驭与研究整合。Milestone 4 尚未加入。](assets/reports/overview.svg)
+![2024—2026 三年研究脉络：2024 自动驾驶与智能体基础；2025 具身数据与软件基础；2026 智能体驾驭与研究整合。](assets/reports/overview.svg)
 
 ## Explore the reports · 年度导航
 
@@ -15,7 +15,7 @@ From autonomous driving and AI agents to embodied data infrastructure, agent har
 | **2026** | 数据与模型 · Harness · 综述、产业研究与书稿 | [Milestones 1–3 →](2026%20Work%20Summary.md) |
 
 > [!NOTE]
-> **2026 Milestone 4 尚未加入。** 中文书稿计划于 2027 年出版，详见年度报告。
+> **2026 ** 中文书稿计划于 2027 年出版，详见年度报告。
 
 ---
 
@@ -64,6 +64,8 @@ The results were presented in four talks: a keynote at OS2ATC’25 in Beijing, t
  Consolidated the research into a wider body of work on safe, reliable physical intelligence, agent harnesses, and recursive self-improvement. Deliverables included the GOSIM'26 Shenzhen presentation, a university-industry robotics collaboration proposal, two survey papers, and follow-up investigations of human action data. A global industry report reviewed leading robotics and embodied foundation model companies across VLA, world-model, and WAM approaches. Two Chinese book drafts, planned for publication by Electronic Industry Press in 2027, organized this knowledge into complementary treatments: one covering embodied intelligence from modular architectures to end-to-end models, and the other covering system platforms, harness engineering, and self-improvement. Their scope also included safety, multi-agent collaboration, benchmarks, evaluation, and scientific applications. Together, these outputs integrated technical surveys, industry analysis, collaboration planning, and book development into a coherent embodied intelligence research agenda.
 
 **里程碑 3 概述**：将既有研究整合为一套关于“安全可靠的物理智能”、“智能体驾驭”及“递归式自我提升”的综合研究体系。产出成果包括：GOSIM'26 深圳大会的演示文稿、一项产学研机器人合作提案、两篇综述论文，以及对人类动作数据的进一步深入调研。此外，一份全球行业报告梳理了机器人及具身基础模型领域的领先企业，涵盖了 VLA（视觉-语言-动作模型）、世界模型及 WAM 等技术路径。两部中文著作（计划于 2027 年由电子工业出版社出版）对上述知识进行了系统梳理：其中一部探讨从模块化架构到端到端模型的具身智能技术；另一部则聚焦于系统平台、驾驭工程及自我提升机制。这些内容还涵盖了安全性、多智能体协作、基准测试、评估体系以及科学应用等多个维度。这些产出共同将技术综述、行业分析、合作规划以及书籍编撰整合为一套连贯的具身智能研究议程。
+
+### Milestone 4
 
 ---
 
