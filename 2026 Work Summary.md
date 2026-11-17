@@ -221,7 +221,7 @@ To be published in 2027
 
 - [English.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/HarnessLoop_Project_Plan_English_v3.pdf)
 
-- to be continued ......
+### 4.3 · to be continued ......
   
 ---
 
