@@ -209,7 +209,7 @@ To be published in 2027
 
 **Milestone Summary**:
 
-### 4.1 · MCP (Model Context Protocl) and MHS (Modle Hardware Stadndard)：
+### 4.1 · Agentic MCP (Model Context Protocol) and Embodied MHS (Modle Hardware Stadndard)：
 
 - [MCP和MHS介绍.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/MCP%E5%92%8CMHS.pdf)
 
