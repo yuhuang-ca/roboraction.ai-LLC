@@ -4,7 +4,7 @@
 
 > Data & models · Agent harnesses · Physical intelligence
 
-![2026 年度工作概览：Milestone 1 — 具身数据、物理世界模型与英文专著；Milestone 2 — Harness 框架、EAH-WAM、合作提案与投资调研；Milestone 3 — 安全可靠物理智能、综述、行业调研与两部书稿；Milestone 4 — to be continued ](assets/reports/2026-overview.svg)
+![2026 年度工作概览：Milestone 1 — 具身数据、物理世界模型与英文专著；Milestone 2 — Harness 框架、EAH-WAM、合作提案与投资调研；Milestone 3 — 安全可靠物理智能、综述、行业调研与两部书稿；Milestone 4 — MCP/MHS、科研自动化与闭环训练计划](assets/reports/2026-overview.svg)
 
 ## At a glance · 工作概览
 
@@ -13,14 +13,14 @@
 | Milestone 1 | 具身数据、物理世界模型与英文专著 |
 | Milestone 2 | Harness 框架、EAH-WAM、合作提案与投资调研 |
 | Milestone 3 | 安全可靠物理智能、综述、行业调研与两部书稿 |
-| Milestone 4 | to be continued ......|
+| Milestone 4 | MCP / MHS、化学自动研究与 HarnessLoop 计划（阶段性） |
 
 > [!NOTE]
 > 两部中文书稿计划于 2027 年出版，当前列为书稿成果。
 
 ## Contents · 导航
 
-[Milestone 1](#milestone-1) · [Milestone 2](#milestone-2) · [Milestone 3](#milestone-3) · [Milestone 4 · to be continued ](#milestone-4)
+[Milestone 1](#milestone-1) · [Milestone 2](#milestone-2) · [Milestone 3](#milestone-3) · [Milestone 4 · 阶段性进展](#milestone-4)
 
 ---
 
@@ -34,17 +34,17 @@
 
 ### 1.1 · "具身智能的数据解决方案" presentation (PDF) (part of it was presented in Beijing conference OS2ATC'26)：
 
-- [具身智能的数据解决方案.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf)
+- [具身智能的数据解决方案.pdf](2026doc/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf)
 
-- [具身智能的数据解决方案-OS2ATC26.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-OS2ATC26.pdf)
+- [具身智能的数据解决方案-OS2ATC26.pdf](2026doc/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-OS2ATC26.pdf)
 
 ### 1.2 · "人类动作数据" Investigation Report PPT：
 
-- [人类动作数据.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE.pdf)
+- [人类动作数据.pdf](2026doc/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE.pdf)
 
 ### 1.3 · Continued Investigation of World model with physical law "Physics + CV + LLM 5"
 
-- [Physics +CV + LLM 5.pptx](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Physics%20%2BCV%20%2B%20LLM%205.pptx)
+- [Physics +CV + LLM 5.pptx](2026doc/Physics%20%2BCV%20%2B%20LLM%205.pptx)
 
 ### 1.4 · English version of book "**Autonomous Driving Handbook**", Springer-Tsinghua, April, 2026
 
@@ -60,49 +60,49 @@
 
 ### 2.1 · Beijing 开放原子生态大会 M-robots OS Workshop PPT “基于M-Robots 的世界模型智能体Harness 框架”：
 
-- [2026开放原子生态大会 M-robots OS Workshop YHuang.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/2026%E5%BC%80%E6%94%BE%E5%8E%9F%E5%AD%90%E7%94%9F%E6%80%81%E5%A4%A7%E4%BC%9A%20M-robots%20OS%20Workshop%20YHuang.pdf) 
+- [2026开放原子生态大会 M-robots OS Workshop YHuang.pdf](2026doc/2026%E5%BC%80%E6%94%BE%E5%8E%9F%E5%AD%90%E7%94%9F%E6%80%81%E5%A4%A7%E4%BC%9A%20M-robots%20OS%20Workshop%20YHuang.pdf) 
 
 ### 2.2 · Shanghai WAIC'26 workshop PPT “世界动作模型具身智体驾驭EAH-WAM”：
 
-- [世界动作模型具身智体驾驭EAH-WAM.pptx](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%B8%96%E7%95%8C%E5%8A%A8%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%85%B7%E8%BA%AB%E6%99%BA%E4%BD%93%E9%A9%BE%E9%A9%ADEAH-WAM.pptx)
+- [世界动作模型具身智体驾驭EAH-WAM.pptx](2026doc/%E4%B8%96%E7%95%8C%E5%8A%A8%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%85%B7%E8%BA%AB%E6%99%BA%E4%BD%93%E9%A9%BE%E9%A9%ADEAH-WAM.pptx)
 
 #### Related articles · 相关文章
 
 three Harness posters：1）智能体Harness和具身机器人的碰撞； 2）将具身机器人扎根于LLM 智能体驾驭框架; 3）扩展到具身机器人的智体驾驭平台。
 
-- [微信原文](https://mp.weixin.qq.com/s/06j2SyTP8CPTYzJXPYethw) — [PDF 备份：智能体Harness和具身机器人的碰撞](%E6%99%BA%E8%83%BD%E4%BD%93Harness%E5%92%8C%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E7%A2%B0%E6%92%9E.pdf) 
+- [微信原文](https://mp.weixin.qq.com/s/06j2SyTP8CPTYzJXPYethw) — [PDF 备份：智能体Harness和具身机器人的碰撞](2026doc/%E6%99%BA%E8%83%BD%E4%BD%93Harness%E5%92%8C%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E7%A2%B0%E6%92%9E.pdf) 
 
-- [微信原文](https://mp.weixin.qq.com/s/kES9v_7scwy4-PUwJCfkXg) — [PDF 备份：将具身机器人扎根于LLM 智能体驾驭框架](%E5%B0%86%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8E%E6%A0%B9%E4%BA%8ELLM%20%E6%99%BA%E8%83%BD%E4%BD%93%E9%A9%BE%E9%A9%AD%E6%A1%86%E6%9E%B6.pdf) 
+- [微信原文](https://mp.weixin.qq.com/s/kES9v_7scwy4-PUwJCfkXg) — [PDF 备份：将具身机器人扎根于LLM 智能体驾驭框架](2026doc/%E5%B0%86%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8E%E6%A0%B9%E4%BA%8ELLM%20%E6%99%BA%E8%83%BD%E4%BD%93%E9%A9%BE%E9%A9%AD%E6%A1%86%E6%9E%B6.pdf) 
 
-- [微信原文](https://mp.weixin.qq.com/s/3E_fGOg9glqdUA_ToOWZ5w) — [PDF 备份：扩展到具身机器人的智体驾驭平台](%E6%89%A9%E5%B1%95%E5%88%B0%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E6%99%BA%E4%BD%93%E9%A9%BE%E9%A9%AD%E5%B9%B3%E5%8F%B0.pdf) 
+- [微信原文](https://mp.weixin.qq.com/s/3E_fGOg9glqdUA_ToOWZ5w) — [PDF 备份：扩展到具身机器人的智体驾驭平台](2026doc/%E6%89%A9%E5%B1%95%E5%88%B0%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E6%99%BA%E4%BD%93%E9%A9%BE%E9%A9%AD%E5%B9%B3%E5%8F%B0.pdf) 
 
 ### 2.3 · University Collaboration Work proposal “复现NV的ENPIRE方法”：
 
-- [复现NV的ENPIRE方法.docx](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%A4%8D%E7%8E%B0NV%E7%9A%84ENPIRE%E6%96%B9%E6%B3%95.docx) 
+- [复现NV的ENPIRE方法.docx](2026doc/%E5%A4%8D%E7%8E%B0NV%E7%9A%84ENPIRE%E6%96%B9%E6%B3%95.docx) 
 
 ### 2.4 · Embodied Agent Harness work proposal “具身WAM的Harness智能体”：
 
-- [具身WAM的Harness智能体.docx](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%ABWAM%E7%9A%84Harness%E6%99%BA%E8%83%BD%E4%BD%93.docx) 
+- [具身WAM的Harness智能体.docx](2026doc/%E5%85%B7%E8%BA%ABWAM%E7%9A%84Harness%E6%99%BA%E8%83%BD%E4%BD%93.docx) 
 
 ### 2.5 · Investment market of embodied AI/robot “Embodied AI Investment”：
 
-- [Embodied AI Investment.pptx](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Embodied%20AI%20Investment.pptx) 
+- [Embodied AI Investment.pptx](2026doc/Embodied%20AI%20Investment.pptx) 
 
 ### 2.6 · Agent Harness work overview “AI Agent Harness 1/2/3”;
 
 
-- [AI Agent Harness 1.pptx](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/AI%20Agent%20Harness%201.pptx)
+- [AI Agent Harness 1.pptx](2026doc/AI%20Agent%20Harness%201.pptx)
 
-- [AI Agent Harness 2.pptx](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/AI%20Agent%20Harness%202.pptx)
+- [AI Agent Harness 2.pptx](2026doc/AI%20Agent%20Harness%202.pptx)
 
-- [AI Agent Harness 3.pptx](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/AI%20Agent%20Harness%203.pptx)
+- [AI Agent Harness 3.pptx](2026doc/AI%20Agent%20Harness%203.pptx)
 
 ### 2.7 · Embodied Agent Robotics work overview “Embodied Agentic Harness 1/2”.
 
 
-- [Embodied Agentic Harness 1.pptx](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Embodied%20Agentic%20Harness%201.pptx)
+- [Embodied Agentic Harness 1.pptx](2026doc/Embodied%20Agentic%20Harness%201.pptx)
 
-- [Embodied Agentic Harness 2.pptx](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Embodied%20Agentic%20Harness%202.pptx)
+- [Embodied Agentic Harness 2.pptx](2026doc/Embodied%20Agentic%20Harness%202.pptx)
 
 <a id="milestone-3"></a>
 
@@ -114,11 +114,11 @@ three Harness posters：1）智能体Harness和具身机器人的碰撞； 2）�
 
 ### 3.1 · PPT for presentation "具身智能体驾驭：从大模型到安全、可靠的物理智能" at GOSIM' 26 Shenzhen：
 
-- [黄浴 开放机器人EAH.pptx](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E9%BB%84%E6%B5%B4%20%E5%BC%80%E6%94%BE%E6%9C%BA%E5%99%A8%E4%BA%BAEAH.pptx) 
+- [黄浴 开放机器人EAH.pptx](2026doc/%E9%BB%84%E6%B5%B4%20%E5%BC%80%E6%94%BE%E6%9C%BA%E5%99%A8%E4%BA%BAEAH.pptx) 
 
 ### 3.2 · The work proposal "机器人合作研究计划" for research collaboration：
 
-- [高校公司机器人合作研究计划.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E9%AB%98%E6%A0%A1%E5%85%AC%E5%8F%B8%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%88%E4%BD%9C%E7%A0%94%E7%A9%B6%E8%AE%A1%E5%88%92.pdf) 
+- [高校公司机器人合作研究计划.pdf](2026doc/%E9%AB%98%E6%A0%A1%E5%85%AC%E5%8F%B8%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%88%E4%BD%9C%E7%A0%94%E7%A9%B6%E8%AE%A1%E5%88%92.pdf) 
 
 ### 3.4 · A survey paper "Embodied Agentic Harnesses for Physical Intelligence: A Survey":
 
@@ -130,13 +130,13 @@ three Harness posters：1）智能体Harness和具身机器人的碰撞； 2）�
 
 ### 3.6 · "人类动作数据 2/3“ Investigation Report PPT：
 
-- [人类动作数据 2.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE%202.pdf)
+- [人类动作数据 2.pdf](2026doc/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE%202.pdf)
 
-- [人类动作数据 3.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE%203.pdf)
+- [人类动作数据 3.pdf](2026doc/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE%203.pdf)
 
 ### 3.7 · “2026全球机器人与具身智能基础模型调研总结报告”
 
-- [2026全球机器人与具身智能基础模型（VLA_世界模型_WAM）Tier-1企业调研总结报告.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/2026%E5%85%A8%E7%90%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9E%8B%EF%BC%88VLA_%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B_WAM%EF%BC%89Tier-1%E4%BC%81%E4%B8%9A%E8%B0%83%E7%A0%94%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A.pdf)
+- [2026全球机器人与具身智能基础模型（VLA_世界模型_WAM）Tier-1企业调研总结报告.pdf](2026doc/2026%E5%85%A8%E7%90%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9E%8B%EF%BC%88VLA_%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B_WAM%EF%BC%89Tier-1%E4%BC%81%E4%B8%9A%E8%B0%83%E7%A0%94%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A.pdf)
 
 ### 3.8 · Drafted version of the book 《具身智能 - 从模块化结构到端到端模型》 and the book 《具身智能 — 从系统平台到智能体驾驭与自我改进》 in Chinese （Electronic Industry Press）
 
@@ -206,25 +206,27 @@ To be published in 2027
 
 ## Milestone 4
 
-**Milestone Summary**:
+**Milestone Summary (provisional; items 4.1–4.3):** Extended embodied agent harness research toward scientific automation and closed-loop robot learning through three initial deliverables. An MCP and MHS introduction documented the interface concepts. The Chemistry AutoResearch proposal outlined automated quantitative liquid dispensing with ADORA_2_MAX, combining MCP, MHS, a System 1/System 2 design, and an embodied harness loop. The bilingual HarnessLoop project plan proposed physics-engine and Gaussian-splatting simulation data generation for on-the-fly robot training in a closed loop. These outputs define initial architecture and project plans; implementation and experimental validation remain outside the outcomes documented here. This summary will be expanded as further milestone work is added.
 
-### 4.1 · Agentic MCP (Model Context Protocol) and Embodied MHS (Modle Hardware Standdard)：
+**里程碑概述（暂定，涵盖 4.1–4.3）：** 本阶段将具身智能体驾驭研究延伸至科研自动化与闭环机器人学习。现有成果包括 MCP 与 MHS 介绍、基于 ADORA_2_MAX 的自动化定量加液实验项目提案，以及中英文 HarnessLoop 项目计划。化学自动研究方案结合 MCP、MHS、系统 1/系统 2 设计与具身 Harness 闭环；HarnessLoop 规划利用物理引擎和高斯泼溅生成仿真数据，支持闭环中的即时机器人训练。目前成果为接口研究、架构设计及项目规划，尚不代表完成系统实现或实验验证；后续将随新增工作继续更新。
 
-- [MCP和MHS介绍.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/MCP%E5%92%8CMHS.pdf)
+### 4.1 · Agentic MCP (Model Context Protocol) and Embodied MHS (Model Hardware Standard)：
+
+- [MCP和MHS介绍.pdf](2026doc/MCP%E5%92%8CMHS.pdf)
 
 ### 4.2 · Chemistry AutoResearch Project Proposal/项目提议:
 
 **Note**: Based on MCP, MHS, Dual-System Design (System 1/2) and Embodied Harness Loop
 
-- [ADORA_2_MAX_自动化定量加液实验工作设计.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/ADORA_2_MAX_%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AE%9A%E9%87%8F%E5%8A%A0%E6%B6%B2%E5%AE%9E%E9%AA%8C%E5%B7%A5%E4%BD%9C%E8%AE%BE%E8%AE%A1_V5_HY.pdf)
+- [ADORA_2_MAX_自动化定量加液实验工作设计.pdf](2026doc/ADORA_2_MAX_%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AE%9A%E9%87%8F%E5%8A%A0%E6%B6%B2%E5%AE%9E%E9%AA%8C%E5%B7%A5%E4%BD%9C%E8%AE%BE%E8%AE%A1_V5_HY.pdf)
  
 ### 4.3 · HarnessLoop Project Plan/项目计划：
 
-**Note**: Physics Engine anf Gaussian Splatting based Simulation Data Generation for On-the-fly Agentic Robot Training in a Closed Loop
+**Note**: Physics Engine and Gaussian Splatting based Simulation Data Generation for On-the-fly Agentic Robot Training in a Closed Loop
 
-- [Chinese.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/HarnessLoop_%E9%A1%B9%E7%9B%AE%E8%AE%A1%E5%88%92_%E4%B8%AD%E6%96%87_v4.pdf)
+- [Chinese.pdf](2026doc/HarnessLoop_%E9%A1%B9%E7%9B%AE%E8%AE%A1%E5%88%92_%E4%B8%AD%E6%96%87_v4.pdf)
 
-- [English.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/HarnessLoop_roject_Plan_English_v4.pdf)
+- [English.pdf](2026doc/HarnessLoop_roject_Plan_English_v4.pdf)
 
 ### 4.4 · to be continued ......
   

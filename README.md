@@ -12,10 +12,10 @@ From autonomous driving and AI agents to embodied data infrastructure, agent har
 | :--- | :--- | :--- |
 | **2024** | 自动驾驶 · LLM 与智能体 · 应用与数据 | [15 个工作条目 →](2024%20Work%20Summary.md) |
 | **2025** | 世界模型 · Dora-rs / LeRobot · 具身数据基础 | [14 个工作条目 →](2025%20Work%20Summary.md) |
-| **2026** | 数据与模型 · Harness · 综述、产业研究与书稿 | [Milestones 1–3 →](2026%20Work%20Summary.md) |
+| **2026** | 数据与模型 · Harness · 综述、产业研究与书稿 | [Milestones 1–4 →](2026%20Work%20Summary.md) |
 
 > [!NOTE]
-> **2026 ** 中文书稿计划于 2027 年出版，详见年度报告。
+> **2026** 中文书稿计划于 2027 年出版，详见年度报告。
 
 ---
 
@@ -26,6 +26,10 @@ From autonomous driving and AI agents to embodied data infrastructure, agent har
 The 2024 work connected autonomous driving research with an expanding focus on large language models, AI agents, and embodied intelligence. Autonomous driving deliverables included the WACV LLVM-AD keynote, the co-authored book 自动驾驶系统开发 (Autonomous Driving System Development), and technical studies of OpenPilot development and deployment pathways, dataset formats, depth-based driving, and sensor fusion. LLM and agent research covered mixture-of-experts models, model merging, tool use and function calling, agent architectures, application platforms, and AI devices, alongside the paper on levels of AI agents and contributions to the Moxin open-source language model research. Application-oriented investigations explored LLM agents in games and OpenRA, while embodied AI work examined data challenges, vision-language-action models, and annotation tools. Presentations and materials for WACV, MIPR, and GOSIM, together with CoRL conference notes, complemented the publications and technical reports. Collectively, these deliverables established a research and knowledge-sharing foundation spanning autonomous systems, agent capabilities, open-source AI, and the data requirements of embodied intelligence.
 
 2024 年的工作将自动驾驶研究与大语言模型、AI 智能体（AI Agents）及具身智能（Embodied Intelligence）等日益受到关注的领域紧密结合。在自动驾驶方面，相关成果包括：在 WACV 会议上发表的“LLVM-AD”主题演讲；合著书籍《自动驾驶系统开发》；以及针对 OpenPilot 开发与部署路径、数据集格式、基于深度信息的驾驶技术，以及传感器融合技术所开展的各项研究。在大语言模型与智能体领域，研究涵盖了专家混合模型（MoE）、模型融合、工具使用与函数调用、智能体架构、应用平台及 AI 硬件设备；此外还包括关于 AI 智能体分级体系的论文，以及对“墨芯”（Moxin）开源语言模型研究的贡献。在应用导向的研究方面，团队探索了大语言模型智能体在游戏（如 OpenRA）中的应用；在具身智能领域，则重点探讨了数据挑战、视觉-语言-动作（VLA）模型以及标注工具。此外，在 WACV、MIPR 和 GOSIM 会议上的演讲与相关资料，以及 CoRL 会议的参会笔记，进一步丰富了上述研究成果与技术报告的内容。这些工作共同构建了一个涵盖自动驾驶系统、智能体能力、开源 AI 以及具身智能数据需求的研究与知识共享基础。
+
+The autonomous driving investigations also examined end-to-end approaches, world models, and a two-part study of LLM-based driving agents.
+
+自动驾驶调研还补充了端到端方法、世界模型，以及两份基于 LLM 的自动驾驶智能体研究材料。
 
 ## 2025 · Annual report
 
@@ -42,6 +46,10 @@ The results were presented in four talks: a keynote at OS2ATC’25 in Beijing, t
 调研工作涵盖三个方向：基于物理规律的世界模型（约40篇论文）、大模型推理时间的规模化定律，以及具身智能本身，包括机器人技能学习方法和机器人策略学习的泛化方法。工程方面，分析了两套开源机器人软件栈：Dora-rs中间件，以及Hugging Face的LeRobot。后者形成八份系列文档，涵盖数据集管理、机器人控制、环境接口和策略系统、开发指南，以及SO100和SO101机械臂的安装与使用。在此基础上，完成了Dorabot具身智能数据平台的项目提案，以及一份基于NVIDIA GR00T工作的机器人基础模型训练数据集构建报告。
 
 这些成果通过四场演讲对外发布：北京OS2ATC’25的主旨演讲、开放原子开源基金会在长沙和重庆的两场会议，以及北京的COSCon’25。此外，在圣何塞IEEE MIPR’25上组织了具身智能产业创新论坛，并完成了一本17章的具身智能专著书稿，计划于2027年出版。
+
+The publication portfolio also included Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA, connecting the software and data investigations with open-source multimodal model research.
+
+论文成果还包括《Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA》，将软件与数据研究延伸至开源多模态模型。
 
 ## 2026 · Annual report
 
@@ -65,9 +73,11 @@ The results were presented in four talks: a keynote at OS2ATC’25 in Beijing, t
 
 **里程碑 3 概述**：将既有研究整合为一套关于“安全可靠的物理智能”、“智能体驾驭”及“递归式自我提升”的综合研究体系。产出成果包括：GOSIM'26 深圳大会的演示文稿、一项产学研机器人合作提案、两篇综述论文，以及对人类动作数据的进一步深入调研。此外，一份全球行业报告梳理了机器人及具身基础模型领域的领先企业，涵盖了 VLA（视觉-语言-动作模型）、世界模型及 WAM 等技术路径。两部中文著作（计划于 2027 年由电子工业出版社出版）对上述知识进行了系统梳理：其中一部探讨从模块化架构到端到端模型的具身智能技术；另一部则聚焦于系统平台、驾驭工程及自我提升机制。这些内容还涵盖了安全性、多智能体协作、基准测试、评估体系以及科学应用等多个维度。这些产出共同将技术综述、行业分析、合作规划以及书籍编撰整合为一套连贯的具身智能研究议程。
 
-### Milestone 4
+### Milestone 4 · Provisional
 
-to be continued......
+**Milestone Summary (provisional; items 4.1–4.3):** Extended embodied agent harness research toward scientific automation and closed-loop robot learning through three initial deliverables. An MCP and MHS introduction documented the interface concepts. The Chemistry AutoResearch proposal outlined automated quantitative liquid dispensing with ADORA_2_MAX, combining MCP, MHS, a System 1/System 2 design, and an embodied harness loop. The bilingual HarnessLoop project plan proposed physics-engine and Gaussian-splatting simulation data generation for on-the-fly robot training in a closed loop. These outputs define initial architecture and project plans; implementation and experimental validation remain outside the outcomes documented here. This summary will be expanded as further milestone work is added.
+
+**里程碑概述（暂定，涵盖 4.1–4.3）：** 本阶段将具身智能体驾驭研究延伸至科研自动化与闭环机器人学习。现有成果包括 MCP 与 MHS 介绍、基于 ADORA_2_MAX 的自动化定量加液实验项目提案，以及中英文 HarnessLoop 项目计划。化学自动研究方案结合 MCP、MHS、系统 1/系统 2 设计与具身 Harness 闭环；HarnessLoop 规划利用物理引擎和高斯泼溅生成仿真数据，支持闭环中的即时机器人训练。目前成果为接口研究、架构设计及项目规划，尚不代表完成系统实现或实验验证；后续将随新增工作继续更新。
 
 ---
 

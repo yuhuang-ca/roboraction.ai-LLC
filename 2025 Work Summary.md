@@ -47,6 +47,8 @@ Research investigations covered three directions: physics-grounded world models 
 
 The results were presented in four talks: a keynote at OS2ATC’25 in Beijing, the Open Atom Foundation conferences in Changsha and Chongqing, and COSCon’25 in Beijing. An industry innovation forum on embodied AI was also organized at IEEE MIPR’25 in San Jose, and a 17-chapter book on embodied AI was drafted for publication in 2027.
 
+The publication portfolio also included Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA, connecting the software and data investigations with open-source multimodal model research.
+
 ## 概述
 
 2025年，工作围绕具身智能（Embodied AI）的研究、数据与中间件基础展开，并在开源及学术研究社区中推广这些成果。
@@ -55,79 +57,81 @@ The results were presented in four talks: a keynote at OS2ATC’25 in Beijing, t
 
 这些成果通过四场演讲对外发布：北京OS2ATC’25的主旨演讲、开放原子开源基金会在长沙和重庆的两场会议，以及北京的COSCon’25。此外，在圣何塞IEEE MIPR’25上组织了具身智能产业创新论坛，并完成了一本17章的具身智能专著书稿，计划于2027年出版。
 
+论文成果还包括《Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA》，将软件与数据研究延伸至开源多模态模型。
+
 ## Deliverables · 交付清单
 
 <a id="deliverable-1"></a>
 
 ### 1. Investigation of World model with physical law (summary reports for about 40 papers)
 
-- Physics Engine + CV + LLM 1 — [PPTX](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Physics%20Engine%20%2B%20CV%20%2B%20LLM%201.pptx)
+- Physics Engine + CV + LLM 1 — [PPTX](2025doc/Physics%20Engine%20%2B%20CV%20%2B%20LLM%201.pptx)
 
-- Physics Engine + CV + LLM 2 — [PPTX](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Physics%20Engine%20%2B%20CV%20%2B%20LLM%202.pptx)
+- Physics Engine + CV + LLM 2 — [PPTX](2025doc/Physics%20Engine%20%2B%20CV%20%2B%20LLM%202.pptx)
 
-- Physics +CV + LLM 3 — [PPTX](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Physics%20%2BCV%20%2B%20LLM%203.pptx)
+- Physics +CV + LLM 3 — [PPTX](2025doc/Physics%20%2BCV%20%2B%20LLM%203.pptx)
 
-- Physics +CV + LLM 4 — [PPTX](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Physics%20%2BCV%20%2B%20LLM%204.pptx)
+- Physics +CV + LLM 4 — [PPTX](2025doc/Physics%20%2BCV%20%2B%20LLM%204.pptx)
 
 <a id="deliverable-2"></a>
 
 ### 2. Investigation of LLM Scaling Law
 
-- [大模型推理-时间的规模化定律.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86-%E6%97%B6%E9%97%B4%E7%9A%84%E8%A7%84%E6%A8%A1%E5%8C%96%E5%AE%9A%E5%BE%8B.pdf)
+- [大模型推理-时间的规模化定律.pdf](2025doc/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86-%E6%97%B6%E9%97%B4%E7%9A%84%E8%A7%84%E6%A8%A1%E5%8C%96%E5%AE%9A%E5%BE%8B.pdf)
 
 <a id="deliverable-3"></a>
 
 ### 3. Investigation of Embodied AI
 
-- “具身智能的机器人技能学习方法” — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E8%83%BD%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)
+- “具身智能的机器人技能学习方法” — [PDF](2025doc/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E8%83%BD%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)
 
-- 具身机器人策略学习的泛化方法 — [DOCX](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AD%96%E7%95%A5%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%B3%9B%E5%8C%96%E6%96%B9%E6%B3%95.docx)
+- 具身机器人策略学习的泛化方法 — [DOCX](2025doc/%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AD%96%E7%95%A5%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%B3%9B%E5%8C%96%E6%96%B9%E6%B3%95.docx)
 
 <a id="deliverable-4"></a>
 
 ### 4. Keynote Speech at OS2ATC' 2025, Beijing
 
-- "具身智能中技能学习面临的挑战" — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/OS2ATC_2025_3_25_%E9%BB%84%E6%B5%B4.pdf)
+- "具身智能中技能学习面临的挑战" — [PDF](2025doc/OS2ATC_2025_3_25_%E9%BB%84%E6%B5%B4.pdf)
 
 <a id="deliverable-5"></a>
 
 ### 5. Report of data construction for robot model training (based on NV GR00T work)
 
-- "构建训练机器人基础模型的数据集" — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E6%9E%84%E5%BB%BA%E8%AE%AD%E7%BB%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%95%B0%E6%8D%AE%E9%9B%86.pdf)
+- "构建训练机器人基础模型的数据集" — [PDF](2025doc/%E6%9E%84%E5%BB%BA%E8%AE%AD%E7%BB%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%95%B0%E6%8D%AE%E9%9B%86.pdf)
 
 <a id="deliverable-6"></a>
 
 ### 6. Talk for session "embodied AI" at conference of Open Atomic Foundation, Changsha, Hunan prov.
 
-- "构建Dorabot 开源具身智能大数据平台" — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E6%9E%84%E5%BB%BADorabot%20%E5%BC%80%E6%BA%90%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf)
+- "构建Dorabot 开源具身智能大数据平台" — [PDF](2025doc/%E6%9E%84%E5%BB%BADorabot%20%E5%BC%80%E6%BA%90%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf)
 
 <a id="deliverable-7"></a>
 
 ### 7. Dorobot project proposal
 
-- "Dorabot 项目“ — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Dorabot%20%E9%A1%B9%E7%9B%AE.pdf)
+- "Dorabot 项目“ — [PDF](2025doc/Dorabot%20%E9%A1%B9%E7%9B%AE.pdf)
 
 <a id="deliverable-8"></a>
 
 ### 8. Dora-rs analysis and report
 
-- "Intro Dora-rs" — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Intro%20Dora-rs.pdf)
+- "Intro Dora-rs" — [PDF](2025doc/Intro%20Dora-rs.pdf)
 
-- "开源软件 Dora 简介" — [DOCX](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6Dora%20%E7%AE%80%E4%BB%8B.docx)
+- "开源软件 Dora 简介" — [DOCX](2025doc/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6Dora%20%E7%AE%80%E4%BB%8B.docx)
 
-- “类似ROS、⾯向机器⼈开发的中间件Dora-rs" — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E7%B1%BB%E4%BC%BCROS%20%E9%9D%A2%E5%90%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91%E7%9A%84%E4%B8%AD%E9%97%B4%E4%BB%B6Dora.pdf)
+- “类似ROS、⾯向机器⼈开发的中间件Dora-rs" — [PDF](2025doc/%E7%B1%BB%E4%BC%BCROS%20%E9%9D%A2%E5%90%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91%E7%9A%84%E4%B8%AD%E9%97%B4%E4%BB%B6Dora.pdf)
 
 <a id="deliverable-9"></a>
 
 ### 9. Talk for session "embodied AI" at conference of Open Atomic Foundation, Chongqing
 
-- "如何提升自动驾驶和具身智能的性能 —— 在 Dora 社区构建开源大数据平台" — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Dora%20%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf)
+- "如何提升自动驾驶和具身智能的性能 —— 在 Dora 社区构建开源大数据平台" — [PDF](2025doc/Dora%20%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0.pdf)
 
 <a id="deliverable-10"></a>
 
 ### 10. Talk at Conference Kaiyuanshe Coscon'25, Beijing
 
-- "构建机器人数据管理平台--开源的具身智能平台DoRobot介绍" — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/coscon25-slides-YuHuang-embodiedAI-update.pdf)
+- "构建机器人数据管理平台--开源的具身智能平台DoRobot介绍" — [PDF](2025doc/coscon25-slides-YuHuang-embodiedAI-update.pdf)
 
 <a id="deliverable-11"></a>
 
@@ -135,7 +139,7 @@ The results were presented in four talks: a keynote at OS2ATC’25 in Beijing, t
 
 - [Conference website](https://sites.google.com/view/mipr-2025/innovation-forums/embodied-ai-ushering-in-the-next-era-of-intelligent-systems)
 
-- Introduction PPT of the forum as modorator — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/MIPR%202025%20EAI-YuHuang.pdf)
+- Introduction PPT of the forum as modorator — [PDF](2025doc/MIPR%202025%20EAI-YuHuang.pdf)
 
 <a id="deliverable-12"></a>
 
@@ -188,21 +192,21 @@ To be published in 2027
 
 ### 13. Introduction of Hugging face‘s LeRobot
 
-- Hugging Face’s LeRobot — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Hugging%20Face%E2%80%99s%20LeRobot.pdf)
+- Hugging Face’s LeRobot — [PDF](2025doc/Hugging%20Face%E2%80%99s%20LeRobot.pdf)
 
-- Hugging Face LeRobot 数据集管理 — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/Hugging%20Face%20LeRobot%20%20%E6%95%B0%E6%8D%AE%E9%9B%86%E7%AE%A1%E7%90%86.pdf)
+- Hugging Face LeRobot 数据集管理 — [PDF](2025doc/Hugging%20Face%20LeRobot%20%20%E6%95%B0%E6%8D%AE%E9%9B%86%E7%AE%A1%E7%90%86.pdf)
 
-- LeRobot 机器人控制系统 — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/LeRobot%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F.pdf)
+- LeRobot 机器人控制系统 — [PDF](2025doc/LeRobot%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F.pdf)
 
-- LeRobot 环境接口系统 — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/LeRobot%20%E7%8E%AF%E5%A2%83%E6%8E%A5%E5%8F%A3%E7%B3%BB%E7%BB%9F.pdf)
+- LeRobot 环境接口系统 — [PDF](2025doc/LeRobot%20%E7%8E%AF%E5%A2%83%E6%8E%A5%E5%8F%A3%E7%B3%BB%E7%BB%9F.pdf)
 
-- LeRobot 策略系统 — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/LeRobot%20%E7%AD%96%E7%95%A5%E7%B3%BB%E7%BB%9F.pdf)
+- LeRobot 策略系统 — [PDF](2025doc/LeRobot%20%E7%AD%96%E7%95%A5%E7%B3%BB%E7%BB%9F.pdf)
 
-- LeRobot的开发指南 — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/LeRobot%E7%9A%84%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf)
+- LeRobot的开发指南 — [PDF](2025doc/LeRobot%E7%9A%84%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf)
 
-- 通过 LeRobot 使用 SO100 — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E9%80%9A%E8%BF%87%20LeRobot%20%E4%BD%BF%E7%94%A8%20SO100.pdf)
+- 通过 LeRobot 使用 SO100 — [PDF](2025doc/%E9%80%9A%E8%BF%87%20LeRobot%20%E4%BD%BF%E7%94%A8%20SO100.pdf)
 
-- 安装和使用 SO101 — [PDF](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8%20SO101.pdf)
+- 安装和使用 SO101 — [PDF](2025doc/%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8%20SO101.pdf)
 
 <a id="deliverable-14"></a>
 
