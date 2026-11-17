@@ -209,11 +209,11 @@ To be published in 2027
 
 **Milestone Summary**:
 
-### 4.1 · MCP and MHS：
+### 4.1 · MCP (Model Context Protocl) and MHS (Modle Hardware Stadndard)：
 
 - [MCP和MHS介绍.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/MCP%E5%92%8CMHS.pdf)
 
-### 4.2 · Chemistry AutoResearch Projec Proposal based on MCP, MHS and Embodied Harness：
+### 4.2 · Chemistry AutoResearch Project Proposal based on MCP, MHS and Embodied Harness：
 - [ADORA_2_MAX_自动化定量加液实验工作设计.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/ADORA_2_MAX_%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AE%9A%E9%87%8F%E5%8A%A0%E6%B6%B2%E5%AE%9E%E9%AA%8C%E5%B7%A5%E4%BD%9C%E8%AE%BE%E8%AE%A1_V5_HY.pdf)
  
 ### 4.3 · HarnessLoop Project Plan/项目计划 (pdf)：Simulation Data for Robot Training in a Closed Loop
