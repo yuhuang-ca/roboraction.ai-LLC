@@ -4,7 +4,7 @@
 
 > Data & models · Agent harnesses · Physical intelligence
 
-![2026 年度工作概览：Milestone 1 — 具身数据、物理世界模型与英文专著；Milestone 2 — Harness 框架、EAH-WAM、合作提案与投资调研；Milestone 3 — 安全可靠物理智能、综述、行业调研与两部书稿；Milestone 4 — 尚未加入 / Content not yet added](assets/reports/2026-overview.svg)
+![2026 年度工作概览：Milestone 1 — 具身数据、物理世界模型与英文专著；Milestone 2 — Harness 框架、EAH-WAM、合作提案与投资调研；Milestone 3 — 安全可靠物理智能、综述、行业调研与两部书稿；Milestone 4 — to be continued ](assets/reports/2026-overview.svg)
 
 ## At a glance · 工作概览
 
@@ -13,14 +13,14 @@
 | Milestone 1 | 具身数据、物理世界模型与英文专著 |
 | Milestone 2 | Harness 框架、EAH-WAM、合作提案与投资调研 |
 | Milestone 3 | 安全可靠物理智能、综述、行业调研与两部书稿 |
-| Milestone 4 | 尚未加入 / Content not yet added |
+| Milestone 4 | to be continued ......|
 
 > [!NOTE]
-> 当前报告包含 Milestone 1–3；Milestone 4 尚未加入。两部中文书稿计划于 2027 年出版，当前列为书稿成果。
+> 两部中文书稿计划于 2027 年出版，当前列为书稿成果。
 
 ## Contents · 导航
 
-[Milestone 1](#milestone-1) · [Milestone 2](#milestone-2) · [Milestone 3](#milestone-3) · [Milestone 4 · 待补充](#milestone-4)
+[Milestone 1](#milestone-1) · [Milestone 2](#milestone-2) · [Milestone 3](#milestone-3) · [Milestone 4 · to be continued ](#milestone-4)
 
 ---
 
@@ -207,10 +207,21 @@ To be published in 2027
 
 <a id="milestone-4"></a>
 
-## Milestone 4 · 待补充 / Not yet added
+## Milestone 4
 
-本里程碑的交付清单和总结尚未加入；此处仅预留位置，不代表已完成。
+### 4.1 · MCP and MHS (PDF)：
 
+- [MCP和MHS介绍.pdf](hhttps://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/MCP%E5%92%8CMHS.pdf)
+
+- - [ADORA_2_MAX_自动化定量加液实验工作设计.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/ADORA_2_MAX_%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AE%9A%E9%87%8F%E5%8A%A0%E6%B6%B2%E5%AE%9E%E9%AA%8C%E5%B7%A5%E4%BD%9C%E8%AE%BE%E8%AE%A1_V5_HY.pdf)
+ 
+### 4.2 · HarnessLoop Project Plan/项目计划 (pdf)：Simulation Data for Robot Training Closed Loop
+
+- [chinese.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/HarnessLoop_%E9%A1%B9%E7%9B%AE%E8%AE%A1%E5%88%92_%E4%B8%AD%E6%96%87_3.pdf)
+
+- [English.pdf](https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/HarnessLoop_Project_Plan_English_v3.pdf)
+
+- to be continued ...... 
 ---
 
 [↑ Back to top](#2026--work-report) · [首页 / Home](README.md) · [2024](2024%20Work%20Summary.md) · [2025](2025%20Work%20Summary.md) · [2026](2026%20Work%20Summary.md)
