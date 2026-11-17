@@ -135,7 +135,7 @@ The publication portfolio also included Open-Source Multimodal Moxin Models with
 
 <a id="deliverable-11"></a>
 
-### 11. Organized industry innovation forum at IEEE MIPR'25, San Jose
+### 11. Organized industry innovation forum “Embodied AI” at IEEE MIPR'25, San Jose
 
 - [Conference website](https://sites.google.com/view/mipr-2025/innovation-forums/embodied-ai-ushering-in-the-next-era-of-intelligent-systems)
 
