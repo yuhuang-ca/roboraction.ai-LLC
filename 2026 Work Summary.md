@@ -228,7 +228,9 @@ To be published in 2027
 
 - [English.pdf](2026doc/HarnessLoop_roject_Plan_English_v4.pdf)
 
-### 4.4 · “An Overview of Emerging Technologies of Autonomous Driving - Gedenkschrift for Prof Thomas S Huang“，Chapter 12 in the Book "Frontiers in Visual Computing, Deep Learning, and Multimedia", Edited by: A Bovik, C W Chen, Y Rui, and H Shi. published by World Scientific, Oct. 2026. [Book -World Scientific] (<https://www.worldscientific.com/worldscibooks/10.1142/14904#t=aboutBook>)
+### 4.4 · “An Overview of Emerging Technologies of Autonomous Driving - Gedenkschrift for Prof Thomas S Huang“，Chapter 12 in the Book "Frontiers in Visual Computing, Deep Learning, and Multimedia", Edited by: A Bovik, C W Chen, Y Rui, and H Shi. published by World Scientific, Oct. 2026. 
+
+[Book . World Scientific] (<https://www.worldscientific.com/worldscibooks/10.1142/14904#t=aboutBook>)
   
 ---
 
