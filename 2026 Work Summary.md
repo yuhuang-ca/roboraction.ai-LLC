@@ -234,8 +234,8 @@ To be published in 2027
 
 [Book · World Scientific](https://www.worldscientific.com/worldscibooks/10.1142/14904#t=aboutBook)
 
-[Submitted version pdf]（https://github.com/yuhuang-ca/roboraction.ai-LLC/blob/yuhuang-ca-document/2026doc/Chapter%2012%20Yu%20Huang%20et%20al.pdf）
-  
+- [Chapter 12.pdf](2026doc/Chapter%2012%20Yu%20Huang%20et%20al.pdf)  
+
 ---
 
 [↑ Back to top](#2026--work-report) · [首页 / Home](README.md) · [2024](2024%20Work%20Summary.md) · [2025](2025%20Work%20Summary.md) · [2026](2026%20Work%20Summary.md)
