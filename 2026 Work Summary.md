@@ -232,7 +232,7 @@ To be published in 2027
 
 **Note**: Chapter 12 in the Book "**Frontiers in Visual Computing, Deep Learning, and Multimedia - Gedenkschrift for Prof Thomas S Huang**", pp381-426, published by World Scientific Company, Oct. 2026. 
 
-[Book . World Scientific](https://www.worldscientific.com/worldscibooks/10.1142/14904#t=aboutBook)
+[Book · World Scientific](https://www.worldscientific.com/worldscibooks/10.1142/14904#t=aboutBook)
   
 ---
 
