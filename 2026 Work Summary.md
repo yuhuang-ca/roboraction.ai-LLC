@@ -224,9 +224,9 @@ To be published in 2027
 
 **Note**: Physics Engine and Gaussian Splatting based Simulation Data Generation for On-the-fly Agentic Robot Training in a Closed Loop
 
-- [Chinese.pdf](2026doc/HarnessLoop_%E9%A1%B9%E7%9B%AE%E8%AE%A1%E5%88%92_%E4%B8%AD%E6%96%87_v4.pdf)
+- [Chinese.pdf](2026doc/HarnessLoop_%E9%A1%B9%E7%9B%AE%E8%AE%A1%E5%88%92_%E4%B8%AD%E6%96%87%20v5.pdf)
 
-- [English.pdf](2026doc/HarnessLoop_roject_Plan_English_v4.pdf)
+- [English.pdf](2026doc/HarnessLoop_Project_Plan_English%20v5.pdf)
 
 ### 4.4 · “An Overview of Emerging Technologies of Autonomous Driving“
 
