@@ -218,7 +218,7 @@ To be published in 2027
 
 **Note**: Based on MCP, MHS, Dual-System Design (System 1/2) and Embodied Harness Loop
 
-- [ADORA_2_MAX_自动化定量加液实验工作设计.pdf](2026doc/ADORA_2_MAX_%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AE%9A%E9%87%8F%E5%8A%A0%E6%B6%B2%E5%AE%9E%E9%AA%8C%E5%B7%A5%E4%BD%9C%E8%AE%BE%E8%AE%A1_V5_HY.pdf)
+- [ADORA_2_MAX_自动化定量加液实验工作设计.pdf](2026doc/ADORA_2_MAX_自动化定量加液实验工作设计_V6%20HY.pdf)
  
 ### 4.3 · HarnessLoop Project Plan/项目计划：
 
