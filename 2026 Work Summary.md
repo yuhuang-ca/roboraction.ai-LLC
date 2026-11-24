@@ -240,6 +240,8 @@ To be published in 2027
 
 ### 4.5 · “Research Proposal of Physics Prior-Constraint Embodied AI for Long Horizon Manipulation, Harness and Recursive Self-Improvement“ 
 
+- to be continued......
+
 ---
 
 [↑ Back to top](#2026--work-report) · [首页 / Home](README.md) · [2024](2024%20Work%20Summary.md) · [2025](2025%20Work%20Summary.md) · [2026](2026%20Work%20Summary.md)
