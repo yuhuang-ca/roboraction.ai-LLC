@@ -236,7 +236,9 @@ To be published in 2027
 
 [Book · World Scientific](https://www.worldscientific.com/worldscibooks/10.1142/14904#t=aboutBook)
 
-- [Chapter 12.pdf](2026doc/Chapter%2012%20Yu%20Huang%20et%20al.pdf)  
+- [Chapter 12.pdf](2026doc/Chapter%2012%20Yu%20Huang%20et%20al.pdf)
+
+### 4.5 · “Research Proposal of Physics-Constraint Long Horizon Embodied AI' with Harness and Recursive Self-Improvement“ 
 
 ---
 
