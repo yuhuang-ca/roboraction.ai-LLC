@@ -101,6 +101,8 @@ The publication portfolio also included Open-Source Multimodal Moxin Models with
 
 - "构建训练机器人基础模型的数据集" — [PDF](2025doc/%E6%9E%84%E5%BB%BA%E8%AE%AD%E7%BB%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%95%B0%E6%8D%AE%E9%9B%86.pdf)
 
+- Medium Poster: ["How to Build an Extended Dataset for Training a Foundational Robot Model?"](https://yuhuang-63908.medium.com/how-to-build-an-extended-dataset-for-training-a-foundational-robot-model-203debfd19cf)
+
 <a id="deliverable-6"></a>
 
 ### 6. Talk for session "embodied AI" at conference of Open Atomic Foundation, Changsha, Hunan prov.
