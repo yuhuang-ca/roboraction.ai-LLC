@@ -135,6 +135,8 @@ The autonomous driving investigations also examined end-to-end approaches, world
 
 [Paper · arXiv](https://arxiv.org/abs/2405.06643)
 
+[Medium poster "Automation Levels of AI Client Devices"] (https://yuhuang-63908.medium.com/automation-levels-of-ai-client-devices-b09e6ed3d47d)
+
 <a id="deliverable-9"></a>
 
 ### 9. Industry Forum “The Age of Industrial AI Agents: Opportunities & Challenges”, IEEE MIPR’ 2024
