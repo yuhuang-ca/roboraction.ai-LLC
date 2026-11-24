@@ -68,7 +68,9 @@
 
 #### Related articles · 相关文章
 
-three Harness posters：1）智能体Harness和具身机器人的碰撞； 2）将具身机器人扎根于LLM 智能体驾驭框架; 3）扩展到具身机器人的智体驾驭平台。
+Medium Poster: ["EAH-WAM: An World Action Model-based Embodied Agentic Harness"](https://yuhuang-63908.medium.com/eah-wam-an-world-action-model-based-embodied-agentic-harness-c3e75b59dc9e)
+
+Three Harness posters：1）智能体Harness和具身机器人的碰撞； 2）将具身机器人扎根于LLM 智能体驾驭框架; 3）扩展到具身机器人的智体驾驭平台。
 
 - [微信原文](https://mp.weixin.qq.com/s/06j2SyTP8CPTYzJXPYethw) — [PDF 备份：智能体Harness和具身机器人的碰撞](2026doc/%E6%99%BA%E8%83%BD%E4%BD%93Harness%E5%92%8C%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E7%A2%B0%E6%92%9E.pdf) 
 
