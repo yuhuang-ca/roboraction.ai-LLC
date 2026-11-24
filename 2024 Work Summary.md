@@ -175,6 +175,8 @@ The autonomous driving investigations also examined end-to-end approaches, world
 
 - “Data Issues in Embodied AI” — [PDF](2024doc/Data%20Issues%20in%20Embodied%20AI.pdf)
 
+- 知乎文章： [“具身智能行为学习需要什么数据？”](https://zhuanlan.zhihu.com/p/11365579054)
+
 - Medium Poster ["What Data Imperative for Action Learning in Embodied AI? (1)"](https://yuhuang-63908.medium.com/what-data-imperative-for-action-learning-in-embodied-ai-1-5b8cf948c0a4)
 
 - Medium Poster ["What Data Imperative for Action Learning in Embodied AI? (2)"](https://yuhuang-63908.medium.com/what-data-imperative-for-action-learning-in-embodied-ai-2-882c4ade2e7d)
