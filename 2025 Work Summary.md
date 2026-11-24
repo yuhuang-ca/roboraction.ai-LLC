@@ -87,6 +87,8 @@ The publication portfolio also included Open-Source Multimodal Moxin Models with
 
 - 具身机器人策略学习的泛化方法 — [DOCX](2025doc/%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AD%96%E7%95%A5%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%B3%9B%E5%8C%96%E6%96%B9%E6%B3%95.docx)
 
+- Medium Poster: ["Generalization of Embodied Robot Learning"](https://yuhuang-63908.medium.com/generalization-of-embodied-robot-learning-e1ee0780e325)
+
 <a id="deliverable-4"></a>
 
 ### 4. Keynote Speech at OS2ATC' 2025, Beijing
