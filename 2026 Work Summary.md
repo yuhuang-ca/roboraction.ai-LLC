@@ -238,7 +238,7 @@ To be published in 2027
 
 - [Chapter 12.pdf](2026doc/Chapter%2012%20Yu%20Huang%20et%20al.pdf)
 
-### 4.5 · “Research Proposal of Physics-Constraint Long Horizon Embodied AI' with Harness and Recursive Self-Improvement“ 
+### 4.5 · “Research Proposal of Physics-Constraint Long Horizon Manipulation for Embodied AI with Harness and Recursive Self-Improvement“ 
 
 ---
 
