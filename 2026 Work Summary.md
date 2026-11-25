@@ -120,6 +120,8 @@ Three Harness posters：1）智能体Harness和具身机器人的碰撞； 2）�
 
 ### 3.2 · The work proposal "机器人合作研究计划" for research collaboration：
 
+**Note**: Physical Prior Constriants, World Model, RSI, Harness (Skills and Memory), AutoResearch, Long Horizon Task Execution, Ego-centric Human Data, OpenAI GPT Astra for High level Planning, High Precision Robot Control, Acceleration of Inference and PnC.
+
 - [高校公司机器人合作研究计划.pdf](2026doc/%E9%AB%98%E6%A0%A1%E5%85%AC%E5%8F%B8%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%88%E4%BD%9C%E7%A0%94%E7%A9%B6%E8%AE%A1%E5%88%92.pdf) 
 
 ### 3.4 · A survey paper "Embodied Agentic Harnesses for Physical Intelligence: A Survey":
