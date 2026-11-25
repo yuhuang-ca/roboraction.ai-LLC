@@ -135,6 +135,8 @@ The autonomous driving investigations also examined end-to-end approaches, world
 
 [Paper · arXiv](https://arxiv.org/abs/2405.06643)
 
+知乎文章：["AI终端设备的自动化分级"](https://zhuanlan.zhihu.com/p/693978810)
+
 Medium poster: ["**Automation Levels of AI Client Devices**"](https://yuhuang-63908.medium.com/automation-levels-of-ai-client-devices-b09e6ed3d47d)
 
 <a id="deliverable-9"></a>
