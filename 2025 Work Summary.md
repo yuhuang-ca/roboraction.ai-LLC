@@ -127,6 +127,12 @@ The publication portfolio also included Open-Source Multimodal Moxin Models with
 
 - “类似ROS、⾯向机器⼈开发的中间件Dora-rs" — [PDF](2025doc/%E7%B1%BB%E4%BC%BCROS%20%E9%9D%A2%E5%90%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91%E7%9A%84%E4%B8%AD%E9%97%B4%E4%BB%B6Dora.pdf)
 
+- 知乎文章["类似ROS 面向机器人开发的中间件Dora-rs （上）"](https://zhuanlan.zhihu.com/p/1909570498045646666)
+  
+- 知乎文章["类似ROS 面向机器人开发的中间件Dora-rs （下）"](https://zhuanlan.zhihu.com/p/1909577139642152845)
+  
+- 知乎文章["一个可替代ROS的开源软件Dora-rs，得到HuggingFace 联合创始人Thomas Wolf点赞"](https://zhuanlan.zhihu.com/p/693510961)
+
 <a id="deliverable-9"></a>
 
 ### 9. Talk for session "embodied AI" at conference of Open Atomic Foundation, Chongqing
