@@ -130,6 +130,8 @@ Three Harness posters：1）智能体Harness和具身机器人的碰撞； 2）�
 
 [Paper · Preprints.org](https://www.preprints.org/manuscript/202610.2080)
 
+知乎：["具身智能体RSI技术综述"](https://zhuanlan.zhihu.com/p/2097787597846328441)
+
 ### 3.6 · Continued Investigation Report "人类动作数据 2/3“ PPT：
 
 - [人类动作数据 2.pdf](2026doc/%E4%BA%BA%E7%B1%BB%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE%202.pdf)
