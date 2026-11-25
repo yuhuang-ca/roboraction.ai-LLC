@@ -99,7 +99,7 @@ Three Harness posters：1）智能体Harness和具身机器人的碰撞； 2）�
 
 - [AI Agent Harness 3.pptx](2026doc/AI%20Agent%20Harness%203.pptx)
 
-### 2.7 · Embodied Agent Robotics work overview “Embodied Agentic Harness 1/2”.
+### 2.7 · Embodied Agent Robotics Harness work overview “Embodied Agentic Harness 1/2”.
 
 
 - [Embodied Agentic Harness 1.pptx](2026doc/Embodied%20Agentic%20Harness%201.pptx)
