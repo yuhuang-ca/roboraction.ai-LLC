@@ -169,6 +169,8 @@ Medium poster: ["**Automation Levels of AI Client Devices**"](https://yuhuang-63
 
 - “OpenRA大语言模型智体” — [PDF](2024doc/OpenRA%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%99%BA%E4%BD%93.pdf)
 
+- 知乎文章：["开源跨平台实时战略游戏引擎OpenRA"](https://zhuanlan.zhihu.com/p/682233241)
+
 <a id="deliverable-12"></a>
 
 ### 12. Data Issue in Embodied AI” (speech on GOSIM’24, Beijing)
