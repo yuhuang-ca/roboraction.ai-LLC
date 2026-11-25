@@ -216,6 +216,12 @@ To be published in 2027
 
 - [MCP和MHS介绍.pdf](2026doc/MCP%E5%92%8CMHS.pdf)
 
+- 知乎文章：["Anthropic 模型硬件标准 （MHS）总结"](https://zhuanlan.zhihu.com/p/2098201895261283231)
+
+- 知乎文章：["Pharma Labs采取的Anthropic 模型硬件需求"](https://zhuanlan.zhihu.com/p/2098210161534019190)
+
+- 知乎文章：["模型硬件标准（MHS）解析：MHS 如何助力 AI 智能体安全地操控物理设备"](https://zhuanlan.zhihu.com/p/2098371394992091182)
+
 ### 4.2 · Chemistry AutoResearch Project Proposal/项目提议:
 
 **Note**: Based on MCP, MHS, Dual-System Design (System 1/2) and Embodied Harness Loop
