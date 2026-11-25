@@ -208,6 +208,8 @@ Medium poster: ["**Automation Levels of AI Client Devices**"](https://yuhuang-63
 
 - [CoRL’24 会议简记.docx](2024doc/CoRL%E2%80%9924%20%E4%BC%9A%E8%AE%AE%E7%AE%80%E8%AE%B0.docx)
 
+- [知乎文章](https://zhuanlan.zhihu.com/p/7649884788)
+
 ---
 
 [↑ Back to top](#2024--work-report) · [首页 / Home](README.md) · [2024](2024%20Work%20Summary.md) · [2025](2025%20Work%20Summary.md) · [2026](2026%20Work%20Summary.md)
