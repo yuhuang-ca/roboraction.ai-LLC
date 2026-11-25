@@ -246,7 +246,7 @@ To be published in 2027
 
 - [Chapter 12.pdf](2026doc/Chapter%2012%20Yu%20Huang%20et%20al.pdf)
 
-### 4.5 · “Research Proposal of Physics Constraint Embodied AI for Long Horizon Execution, Agentic Harness and Recursive Self-Improvement“ 
+### 4.5 · “Research Proposal of Embodied AI: Mathematical Foundations“ 
 
 **Note**: Mathematical Foundations of Long-Horizon Execution, Agentic Harness and Recursive Self-Improvement for Embodied AI under Physical Constraints
 
